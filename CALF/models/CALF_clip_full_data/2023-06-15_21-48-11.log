@@ -1,0 +1,27 @@
+2023-06-15 21:48:11,593 [MainThread  ] [INFO ]  Starting main function
+2023-06-15 21:48:11,593 [MainThread  ] [INFO ]  Parameters:
+2023-06-15 21:48:11,593 [MainThread  ] [INFO ]   SoccerNet_path : /data/ted/hdsi/challenge_sn_video
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]         features : CLIP_feats.npz
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]     load_weights : None
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]       model_name : CALF_clip_full_data
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]        test_only : True
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]        challenge : True
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]         K_params : None
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]     num_features : 1024
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]  chunks_per_epoch : 18000
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]  evaluation_frequency : 20
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]      dim_capsule : 16
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]        framerate : 2
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]       chunk_size : 120
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]  receptive_field : 40
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]     lambda_coord : 5.0
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]     lambda_noobj : 0.5
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]  loss_weight_segmentation : 0.000367
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]  loss_weight_detection : 1.0
+2023-06-15 21:48:11,594 [MainThread  ] [INFO ]       batch_size : 32
+2023-06-15 21:48:11,595 [MainThread  ] [INFO ]               LR : 0.001
+2023-06-15 21:48:11,595 [MainThread  ] [INFO ]         patience : 25
+2023-06-15 21:48:11,595 [MainThread  ] [INFO ]              GPU : -1
+2023-06-15 21:48:11,595 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-06-15 21:48:11,595 [MainThread  ] [INFO ]         loglevel : INFO

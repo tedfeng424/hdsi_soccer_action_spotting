@@ -1,0 +1,27 @@
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]  Starting main function
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]  Parameters:
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]   SoccerNet_path : /data/ted/data/sn_data/soccernet
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]     load_weights : None
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]       model_name : CALF_v2
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]        test_only : False
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]        challenge : False
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]         K_params : None
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]     num_features : 512
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]  chunks_per_epoch : 18000
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]  evaluation_frequency : 20
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]      dim_capsule : 16
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]        framerate : 2
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]       chunk_size : 120
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]  receptive_field : 40
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]     lambda_coord : 5.0
+2023-05-02 23:54:05,262 [MainThread  ] [INFO ]     lambda_noobj : 0.5
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]  loss_weight_segmentation : 0.000367
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]  loss_weight_detection : 1.0
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]       batch_size : 32
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]               LR : 0.001
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]         patience : 25
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]              GPU : -1
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-05-02 23:54:05,263 [MainThread  ] [INFO ]         loglevel : INFO

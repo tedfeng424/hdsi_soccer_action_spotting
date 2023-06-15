@@ -1,0 +1,62 @@
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]  Starting main function
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]  Parameters:
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]   SoccerNet_path : /data/ted/data/sn_data/soccernet
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]     load_weights : None
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]       model_name : CALF_benchmark
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]        test_only : True
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]        challenge : False
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]         K_params : None
+2023-05-02 23:18:24,510 [MainThread  ] [INFO ]     num_features : 512
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]  chunks_per_epoch : 18000
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]  evaluation_frequency : 20
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]      dim_capsule : 16
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]        framerate : 2
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]       chunk_size : 120
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]  receptive_field : 40
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]     lambda_coord : 5.0
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]     lambda_noobj : 0.5
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]  loss_weight_segmentation : 0.000367
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]  loss_weight_detection : 1.0
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]       batch_size : 32
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]               LR : 0.001
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]         patience : 25
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]              GPU : -1
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-05-02 23:18:24,511 [MainThread  ] [INFO ]         loglevel : INFO
+2023-05-02 23:18:24,552 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-05-02 23:18:24,700 [MainThread  ] [INFO ]  ContextAwareModel(
+  (conv_1): Conv2d(1, 128, kernel_size=(1, 512), stride=(1, 1))
+  (conv_2): Conv2d(128, 32, kernel_size=(1, 1), stride=(1, 1))
+  (pad_p_1): ZeroPad2d((0, 0, 5, 6))
+  (pad_p_2): ZeroPad2d((0, 0, 13, 13))
+  (pad_p_3): ZeroPad2d((0, 0, 19, 20))
+  (pad_p_4): ZeroPad2d((0, 0, 39, 40))
+  (conv_p_1): Conv2d(32, 8, kernel_size=(12, 1), stride=(1, 1))
+  (conv_p_2): Conv2d(32, 16, kernel_size=(27, 1), stride=(1, 1))
+  (conv_p_3): Conv2d(32, 32, kernel_size=(40, 1), stride=(1, 1))
+  (conv_p_4): Conv2d(32, 64, kernel_size=(80, 1), stride=(1, 1))
+  (pad_seg): ZeroPad2d((0, 0, 1, 1))
+  (conv_seg): Conv2d(152, 272, kernel_size=(3, 1), stride=(1, 1))
+  (batch_seg): BatchNorm2d(240, eps=0.001, momentum=0.01, affine=True, track_running_stats=True)
+  (max_pool_spot): MaxPool2d(kernel_size=(3, 1), stride=(2, 1), padding=0, dilation=1, ceil_mode=False)
+  (pad_spot_1): ZeroPad2d((0, 0, 1, 1))
+  (conv_spot_1): Conv2d(289, 32, kernel_size=(3, 1), stride=(1, 1))
+  (max_pool_spot_1): MaxPool2d(kernel_size=(3, 1), stride=(2, 1), padding=0, dilation=1, ceil_mode=False)
+  (pad_spot_2): ZeroPad2d((0, 0, 1, 1))
+  (conv_spot_2): Conv2d(32, 16, kernel_size=(3, 1), stride=(1, 1))
+  (max_pool_spot_2): MaxPool2d(kernel_size=(3, 1), stride=(2, 1), padding=0, dilation=1, ceil_mode=False)
+  (conv_conf): Conv2d(464, 30, kernel_size=(1, 1), stride=(1, 1))
+  (conv_class): Conv2d(464, 255, kernel_size=(1, 1), stride=(1, 1))
+  (softmax): Softmax(dim=-1)
+)
+2023-05-02 23:18:24,700 [MainThread  ] [INFO ]  Total number of parameters: 578245
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Best performance at end of training 
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP: 0.41594069583820487
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP visible: 0.43522626886777815
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP unshown: 0.28881364669960524
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP per class: [0.3952912761022265, 0.3602152603136015, 0.7016367630112486, 0.49847037659925425, 0.2912790596231451, 0.2376435312049586, 0.2670652481236568, 0.5190619702973198, 0.6638622965573886, 0.5975334135562015, 0.5460508596318565, 0.409338687634919, 0.440150733645943, 0.7261769887080118, 0.4094468223803017, 0.00776854185945095, 0.0]
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP visible per class: [0.4438195525496157, 0.3159791221251563, 0.7055144533126108, 0.5894825165909863, 0.3084761706062822, 0.2384702376762402, 0.26849467103446284, 0.5823639335904902, 0.6650003260713062, 0.6266608451724406, 0.5488189404720766, 0.3844466781322401, 0.4951624147411947, 0.7376557238420285, 0.4440958949754619, 0.04440508985963531, 0.0]
+2023-05-02 23:18:43,403 [MainThread  ] [INFO ]  Average mAP unshown per class: [0.0, 0.3790691861093815, 0.0, 0.15989134811243785, 0.12576473113663192, 0.0, 0.0, 0.46846082668634276, 0.6296950662616987, 0.5214885988782462, 0.32987821942367396, 0.46711665985232603, 0.00418142463597009, 0.6089982367005157, 0.06003310929764296, 0.0, 0.0]
+2023-05-02 23:18:43,404 [MainThread  ] [INFO ]  Total Execution Time is 18.893678903579712 seconds

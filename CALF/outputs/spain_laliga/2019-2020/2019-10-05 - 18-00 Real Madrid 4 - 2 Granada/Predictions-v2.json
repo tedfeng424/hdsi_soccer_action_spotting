@@ -1,0 +1,3897 @@
+{
+    "UrlLocal": "spain_laliga/2019-2020/2019-10-05 - 18-00 Real Madrid 4 - 2 Granada",
+    "predictions": [
+        {
+            "gameTime": "1 - 0:24",
+            "label": "Throw-in",
+            "position": "24000",
+            "half": "1",
+            "confidence": "0.009059077128767967"
+        },
+        {
+            "gameTime": "1 - 0:32",
+            "label": "Ball out of play",
+            "position": "32000",
+            "half": "1",
+            "confidence": "0.0277198925614357"
+        },
+        {
+            "gameTime": "1 - 0:48",
+            "label": "Foul",
+            "position": "48000",
+            "half": "1",
+            "confidence": "0.530556321144104"
+        },
+        {
+            "gameTime": "1 - 0:54",
+            "label": "Ball out of play",
+            "position": "54500",
+            "half": "1",
+            "confidence": "0.09862285852432251"
+        },
+        {
+            "gameTime": "1 - 1:5",
+            "label": "Indirect free-kick",
+            "position": "65000",
+            "half": "1",
+            "confidence": "0.6890714764595032"
+        },
+        {
+            "gameTime": "1 - 1:24",
+            "label": "Shots on target",
+            "position": "84500",
+            "half": "1",
+            "confidence": "0.06436136364936829"
+        },
+        {
+            "gameTime": "1 - 1:35",
+            "label": "Shots on target",
+            "position": "95000",
+            "half": "1",
+            "confidence": "0.10069187730550766"
+        },
+        {
+            "gameTime": "1 - 1:42",
+            "label": "Goal",
+            "position": "102500",
+            "half": "1",
+            "confidence": "0.8989518880844116"
+        },
+        {
+            "gameTime": "1 - 2:2",
+            "label": "Penalty",
+            "position": "122500",
+            "half": "1",
+            "confidence": "0.11941207200288773"
+        },
+        {
+            "gameTime": "1 - 2:22",
+            "label": "Kick-off",
+            "position": "142000",
+            "half": "1",
+            "confidence": "0.3049686849117279"
+        },
+        {
+            "gameTime": "1 - 2:38",
+            "label": "Kick-off",
+            "position": "158000",
+            "half": "1",
+            "confidence": "0.14342287182807922"
+        },
+        {
+            "gameTime": "1 - 2:44",
+            "label": "Substitution",
+            "position": "164500",
+            "half": "1",
+            "confidence": "0.18180622160434723"
+        },
+        {
+            "gameTime": "1 - 2:50",
+            "label": "Kick-off",
+            "position": "170000",
+            "half": "1",
+            "confidence": "0.16595806181430817"
+        },
+        {
+            "gameTime": "1 - 3:2",
+            "label": "Clearance",
+            "position": "182500",
+            "half": "1",
+            "confidence": "0.4992838501930237"
+        },
+        {
+            "gameTime": "1 - 3:6",
+            "label": "Kick-off",
+            "position": "186000",
+            "half": "1",
+            "confidence": "0.2973407506942749"
+        },
+        {
+            "gameTime": "1 - 3:22",
+            "label": "Ball out of play",
+            "position": "202000",
+            "half": "1",
+            "confidence": "0.37770354747772217"
+        },
+        {
+            "gameTime": "1 - 3:23",
+            "label": "Offside",
+            "position": "203000",
+            "half": "1",
+            "confidence": "0.14072257280349731"
+        },
+        {
+            "gameTime": "1 - 3:25",
+            "label": "Throw-in",
+            "position": "205500",
+            "half": "1",
+            "confidence": "0.15821321308612823"
+        },
+        {
+            "gameTime": "1 - 3:35",
+            "label": "Offside",
+            "position": "215000",
+            "half": "1",
+            "confidence": "0.7902401685714722"
+        },
+        {
+            "gameTime": "1 - 3:47",
+            "label": "Indirect free-kick",
+            "position": "227000",
+            "half": "1",
+            "confidence": "0.029415391385555267"
+        },
+        {
+            "gameTime": "1 - 3:58",
+            "label": "Indirect free-kick",
+            "position": "238000",
+            "half": "1",
+            "confidence": "0.06867758184671402"
+        },
+        {
+            "gameTime": "1 - 4:4",
+            "label": "Yellow card",
+            "position": "244000",
+            "half": "1",
+            "confidence": "0.16704721748828888"
+        },
+        {
+            "gameTime": "1 - 4:9",
+            "label": "Ball out of play",
+            "position": "249500",
+            "half": "1",
+            "confidence": "0.08167079836130142"
+        },
+        {
+            "gameTime": "1 - 4:15",
+            "label": "Substitution",
+            "position": "255000",
+            "half": "1",
+            "confidence": "0.0302804596722126"
+        },
+        {
+            "gameTime": "1 - 4:33",
+            "label": "Substitution",
+            "position": "273000",
+            "half": "1",
+            "confidence": "0.5687640905380249"
+        },
+        {
+            "gameTime": "1 - 4:41",
+            "label": "Throw-in",
+            "position": "281500",
+            "half": "1",
+            "confidence": "0.46408945322036743"
+        },
+        {
+            "gameTime": "1 - 4:50",
+            "label": "Ball out of play",
+            "position": "290000",
+            "half": "1",
+            "confidence": "0.5033224821090698"
+        },
+        {
+            "gameTime": "1 - 4:59",
+            "label": "Substitution",
+            "position": "299500",
+            "half": "1",
+            "confidence": "0.21794329583644867"
+        },
+        {
+            "gameTime": "1 - 5:12",
+            "label": "Substitution",
+            "position": "312000",
+            "half": "1",
+            "confidence": "0.23717907071113586"
+        },
+        {
+            "gameTime": "1 - 5:28",
+            "label": "Substitution",
+            "position": "328000",
+            "half": "1",
+            "confidence": "0.5122661590576172"
+        },
+        {
+            "gameTime": "1 - 5:43",
+            "label": "Substitution",
+            "position": "343500",
+            "half": "1",
+            "confidence": "0.11913927644491196"
+        },
+        {
+            "gameTime": "1 - 5:54",
+            "label": "Indirect free-kick",
+            "position": "354000",
+            "half": "1",
+            "confidence": "0.4982048571109772"
+        },
+        {
+            "gameTime": "1 - 6:5",
+            "label": "Offside",
+            "position": "365500",
+            "half": "1",
+            "confidence": "0.2842467129230499"
+        },
+        {
+            "gameTime": "1 - 6:21",
+            "label": "Offside",
+            "position": "381500",
+            "half": "1",
+            "confidence": "0.23659394681453705"
+        },
+        {
+            "gameTime": "1 - 6:24",
+            "label": "Shots on target",
+            "position": "384500",
+            "half": "1",
+            "confidence": "0.24046289920806885"
+        },
+        {
+            "gameTime": "1 - 6:31",
+            "label": "Kick-off",
+            "position": "391000",
+            "half": "1",
+            "confidence": "0.12976810336112976"
+        },
+        {
+            "gameTime": "1 - 6:40",
+            "label": "Yellow card",
+            "position": "400500",
+            "half": "1",
+            "confidence": "0.15568406879901886"
+        },
+        {
+            "gameTime": "1 - 6:57",
+            "label": "Indirect free-kick",
+            "position": "417000",
+            "half": "1",
+            "confidence": "0.910392701625824"
+        },
+        {
+            "gameTime": "1 - 7:7",
+            "label": "Ball out of play",
+            "position": "427500",
+            "half": "1",
+            "confidence": "0.7730464935302734"
+        },
+        {
+            "gameTime": "1 - 7:9",
+            "label": "Throw-in",
+            "position": "429500",
+            "half": "1",
+            "confidence": "0.7102931141853333"
+        },
+        {
+            "gameTime": "1 - 7:24",
+            "label": "Throw-in",
+            "position": "444500",
+            "half": "1",
+            "confidence": "0.11252324283123016"
+        },
+        {
+            "gameTime": "1 - 7:37",
+            "label": "Foul",
+            "position": "457500",
+            "half": "1",
+            "confidence": "0.6973366141319275"
+        },
+        {
+            "gameTime": "1 - 7:43",
+            "label": "Yellow card",
+            "position": "463000",
+            "half": "1",
+            "confidence": "0.19041012227535248"
+        },
+        {
+            "gameTime": "1 - 8:0",
+            "label": "Yellow card",
+            "position": "480000",
+            "half": "1",
+            "confidence": "0.1357080638408661"
+        },
+        {
+            "gameTime": "1 - 8:15",
+            "label": "Direct free-kick",
+            "position": "495500",
+            "half": "1",
+            "confidence": "0.8937519192695618"
+        },
+        {
+            "gameTime": "1 - 8:17",
+            "label": "Ball out of play",
+            "position": "497000",
+            "half": "1",
+            "confidence": "0.7125598192214966"
+        },
+        {
+            "gameTime": "1 - 8:31",
+            "label": "Throw-in",
+            "position": "511500",
+            "half": "1",
+            "confidence": "0.6833510398864746"
+        },
+        {
+            "gameTime": "1 - 8:35",
+            "label": "Ball out of play",
+            "position": "515500",
+            "half": "1",
+            "confidence": "0.3593100905418396"
+        },
+        {
+            "gameTime": "1 - 8:44",
+            "label": "Throw-in",
+            "position": "524000",
+            "half": "1",
+            "confidence": "0.5394227504730225"
+        },
+        {
+            "gameTime": "1 - 8:50",
+            "label": "Ball out of play",
+            "position": "530000",
+            "half": "1",
+            "confidence": "0.5788114070892334"
+        },
+        {
+            "gameTime": "1 - 8:55",
+            "label": "Throw-in",
+            "position": "535500",
+            "half": "1",
+            "confidence": "0.3882656395435333"
+        },
+        {
+            "gameTime": "1 - 9:1",
+            "label": "Ball out of play",
+            "position": "541500",
+            "half": "1",
+            "confidence": "0.5429023504257202"
+        },
+        {
+            "gameTime": "1 - 9:22",
+            "label": "Ball out of play",
+            "position": "562500",
+            "half": "1",
+            "confidence": "0.30451056361198425"
+        },
+        {
+            "gameTime": "1 - 9:27",
+            "label": "Throw-in",
+            "position": "567000",
+            "half": "1",
+            "confidence": "0.718514621257782"
+        },
+        {
+            "gameTime": "1 - 9:36",
+            "label": "Ball out of play",
+            "position": "576500",
+            "half": "1",
+            "confidence": "0.5385943055152893"
+        },
+        {
+            "gameTime": "1 - 9:41",
+            "label": "Offside",
+            "position": "581000",
+            "half": "1",
+            "confidence": "0.30082646012306213"
+        },
+        {
+            "gameTime": "1 - 9:56",
+            "label": "Indirect free-kick",
+            "position": "596000",
+            "half": "1",
+            "confidence": "0.07638397812843323"
+        },
+        {
+            "gameTime": "1 - 10:11",
+            "label": "Indirect free-kick",
+            "position": "611500",
+            "half": "1",
+            "confidence": "0.49283769726753235"
+        },
+        {
+            "gameTime": "1 - 10:22",
+            "label": "Indirect free-kick",
+            "position": "622000",
+            "half": "1",
+            "confidence": "0.14380204677581787"
+        },
+        {
+            "gameTime": "1 - 10:33",
+            "label": "Indirect free-kick",
+            "position": "633000",
+            "half": "1",
+            "confidence": "0.17030401527881622"
+        },
+        {
+            "gameTime": "1 - 10:33",
+            "label": "Ball out of play",
+            "position": "633500",
+            "half": "1",
+            "confidence": "0.37183889746665955"
+        },
+        {
+            "gameTime": "1 - 10:37",
+            "label": "Throw-in",
+            "position": "637000",
+            "half": "1",
+            "confidence": "0.5059827566146851"
+        },
+        {
+            "gameTime": "1 - 10:55",
+            "label": "Throw-in",
+            "position": "655500",
+            "half": "1",
+            "confidence": "0.06000979617238045"
+        },
+        {
+            "gameTime": "1 - 11:5",
+            "label": "Ball out of play",
+            "position": "665500",
+            "half": "1",
+            "confidence": "0.12657760083675385"
+        },
+        {
+            "gameTime": "1 - 11:17",
+            "label": "Ball out of play",
+            "position": "677000",
+            "half": "1",
+            "confidence": "0.23208555579185486"
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "Throw-in",
+            "position": "679500",
+            "half": "1",
+            "confidence": "0.23786477744579315"
+        },
+        {
+            "gameTime": "1 - 11:28",
+            "label": "Ball out of play",
+            "position": "688500",
+            "half": "1",
+            "confidence": "0.6360464692115784"
+        },
+        {
+            "gameTime": "1 - 11:37",
+            "label": "Throw-in",
+            "position": "697500",
+            "half": "1",
+            "confidence": "0.4562356472015381"
+        },
+        {
+            "gameTime": "1 - 11:41",
+            "label": "Corner",
+            "position": "701000",
+            "half": "1",
+            "confidence": "0.6523341536521912"
+        },
+        {
+            "gameTime": "1 - 11:45",
+            "label": "Ball out of play",
+            "position": "705500",
+            "half": "1",
+            "confidence": "0.5760393142700195"
+        },
+        {
+            "gameTime": "1 - 11:47",
+            "label": "Foul",
+            "position": "707500",
+            "half": "1",
+            "confidence": "0.4345143139362335"
+        },
+        {
+            "gameTime": "1 - 11:53",
+            "label": "Yellow card",
+            "position": "713500",
+            "half": "1",
+            "confidence": "0.16582438349723816"
+        },
+        {
+            "gameTime": "1 - 12:15",
+            "label": "Yellow card",
+            "position": "735500",
+            "half": "1",
+            "confidence": "0.13099224865436554"
+        },
+        {
+            "gameTime": "1 - 12:31",
+            "label": "Direct free-kick",
+            "position": "751000",
+            "half": "1",
+            "confidence": "0.8524839878082275"
+        },
+        {
+            "gameTime": "1 - 12:34",
+            "label": "Ball out of play",
+            "position": "754500",
+            "half": "1",
+            "confidence": "0.7647885084152222"
+        },
+        {
+            "gameTime": "1 - 12:54",
+            "label": "Clearance",
+            "position": "774000",
+            "half": "1",
+            "confidence": "0.6312703490257263"
+        },
+        {
+            "gameTime": "1 - 13:4",
+            "label": "Shots on target",
+            "position": "784500",
+            "half": "1",
+            "confidence": "0.10188449919223785"
+        },
+        {
+            "gameTime": "1 - 13:15",
+            "label": "Shots on target",
+            "position": "795000",
+            "half": "1",
+            "confidence": "0.07611493766307831"
+        },
+        {
+            "gameTime": "1 - 13:24",
+            "label": "Shots off target",
+            "position": "804500",
+            "half": "1",
+            "confidence": "0.3915676176548004"
+        },
+        {
+            "gameTime": "1 - 13:27",
+            "label": "Ball out of play",
+            "position": "807500",
+            "half": "1",
+            "confidence": "0.7615190148353577"
+        },
+        {
+            "gameTime": "1 - 13:46",
+            "label": "Clearance",
+            "position": "826500",
+            "half": "1",
+            "confidence": "0.5116819143295288"
+        },
+        {
+            "gameTime": "1 - 14:8",
+            "label": "Foul",
+            "position": "848500",
+            "half": "1",
+            "confidence": "0.6539092063903809"
+        },
+        {
+            "gameTime": "1 - 14:19",
+            "label": "Indirect free-kick",
+            "position": "859500",
+            "half": "1",
+            "confidence": "0.3499152660369873"
+        },
+        {
+            "gameTime": "1 - 14:30",
+            "label": "Indirect free-kick",
+            "position": "870500",
+            "half": "1",
+            "confidence": "0.4822448194026947"
+        },
+        {
+            "gameTime": "1 - 14:45",
+            "label": "Indirect free-kick",
+            "position": "885000",
+            "half": "1",
+            "confidence": "0.055742308497428894"
+        },
+        {
+            "gameTime": "1 - 14:56",
+            "label": "Ball out of play",
+            "position": "896500",
+            "half": "1",
+            "confidence": "0.6798562407493591"
+        },
+        {
+            "gameTime": "1 - 15:13",
+            "label": "Throw-in",
+            "position": "913500",
+            "half": "1",
+            "confidence": "0.532670259475708"
+        },
+        {
+            "gameTime": "1 - 15:17",
+            "label": "Clearance",
+            "position": "917500",
+            "half": "1",
+            "confidence": "0.12916013598442078"
+        },
+        {
+            "gameTime": "1 - 15:34",
+            "label": "Shots on target",
+            "position": "934000",
+            "half": "1",
+            "confidence": "0.30775460600852966"
+        },
+        {
+            "gameTime": "1 - 15:41",
+            "label": "Shots off target",
+            "position": "941500",
+            "half": "1",
+            "confidence": "0.6958011984825134"
+        },
+        {
+            "gameTime": "1 - 15:41",
+            "label": "Ball out of play",
+            "position": "941500",
+            "half": "1",
+            "confidence": "0.659710705280304"
+        },
+        {
+            "gameTime": "1 - 15:59",
+            "label": "Clearance",
+            "position": "959000",
+            "half": "1",
+            "confidence": "0.6144796013832092"
+        },
+        {
+            "gameTime": "1 - 16:12",
+            "label": "Shots on target",
+            "position": "972000",
+            "half": "1",
+            "confidence": "0.02402128092944622"
+        },
+        {
+            "gameTime": "1 - 16:25",
+            "label": "Indirect free-kick",
+            "position": "985000",
+            "half": "1",
+            "confidence": "0.0070872316136956215"
+        },
+        {
+            "gameTime": "1 - 16:31",
+            "label": "Ball out of play",
+            "position": "991500",
+            "half": "1",
+            "confidence": "0.04753874987363815"
+        },
+        {
+            "gameTime": "1 - 16:38",
+            "label": "Foul",
+            "position": "998500",
+            "half": "1",
+            "confidence": "0.10833986103534698"
+        },
+        {
+            "gameTime": "1 - 16:47",
+            "label": "Throw-in",
+            "position": "1007500",
+            "half": "1",
+            "confidence": "0.10055273026227951"
+        },
+        {
+            "gameTime": "1 - 16:50",
+            "label": "Indirect free-kick",
+            "position": "1010500",
+            "half": "1",
+            "confidence": "0.09049736708402634"
+        },
+        {
+            "gameTime": "1 - 16:57",
+            "label": "Shots on target",
+            "position": "1017500",
+            "half": "1",
+            "confidence": "0.06344369053840637"
+        },
+        {
+            "gameTime": "1 - 17:12",
+            "label": "Shots on target",
+            "position": "1032000",
+            "half": "1",
+            "confidence": "0.21242576837539673"
+        },
+        {
+            "gameTime": "1 - 17:15",
+            "label": "Offside",
+            "position": "1035500",
+            "half": "1",
+            "confidence": "0.6812164783477783"
+        },
+        {
+            "gameTime": "1 - 17:37",
+            "label": "Clearance",
+            "position": "1057000",
+            "half": "1",
+            "confidence": "0.17768123745918274"
+        },
+        {
+            "gameTime": "1 - 17:44",
+            "label": "Indirect free-kick",
+            "position": "1064500",
+            "half": "1",
+            "confidence": "0.8483991622924805"
+        },
+        {
+            "gameTime": "1 - 17:48",
+            "label": "Ball out of play",
+            "position": "1068500",
+            "half": "1",
+            "confidence": "0.19530484080314636"
+        },
+        {
+            "gameTime": "1 - 17:53",
+            "label": "Foul",
+            "position": "1073000",
+            "half": "1",
+            "confidence": "0.5755839943885803"
+        },
+        {
+            "gameTime": "1 - 18:14",
+            "label": "Indirect free-kick",
+            "position": "1094000",
+            "half": "1",
+            "confidence": "0.6232184171676636"
+        },
+        {
+            "gameTime": "1 - 18:16",
+            "label": "Throw-in",
+            "position": "1096500",
+            "half": "1",
+            "confidence": "0.44331979751586914"
+        },
+        {
+            "gameTime": "1 - 18:32",
+            "label": "Throw-in",
+            "position": "1112500",
+            "half": "1",
+            "confidence": "0.10971002280712128"
+        },
+        {
+            "gameTime": "1 - 18:40",
+            "label": "Ball out of play",
+            "position": "1120000",
+            "half": "1",
+            "confidence": "0.15716001391410828"
+        },
+        {
+            "gameTime": "1 - 18:57",
+            "label": "Throw-in",
+            "position": "1137500",
+            "half": "1",
+            "confidence": "0.3494696021080017"
+        },
+        {
+            "gameTime": "1 - 19:10",
+            "label": "Ball out of play",
+            "position": "1150500",
+            "half": "1",
+            "confidence": "0.6287405490875244"
+        },
+        {
+            "gameTime": "1 - 19:24",
+            "label": "Throw-in",
+            "position": "1164500",
+            "half": "1",
+            "confidence": "0.5830000638961792"
+        },
+        {
+            "gameTime": "1 - 19:27",
+            "label": "Ball out of play",
+            "position": "1167500",
+            "half": "1",
+            "confidence": "0.25684359669685364"
+        },
+        {
+            "gameTime": "1 - 19:29",
+            "label": "Foul",
+            "position": "1169500",
+            "half": "1",
+            "confidence": "0.6693377494812012"
+        },
+        {
+            "gameTime": "1 - 19:38",
+            "label": "Yellow card",
+            "position": "1178500",
+            "half": "1",
+            "confidence": "0.2136647254228592"
+        },
+        {
+            "gameTime": "1 - 19:58",
+            "label": "Indirect free-kick",
+            "position": "1198000",
+            "half": "1",
+            "confidence": "0.599543035030365"
+        },
+        {
+            "gameTime": "1 - 20:16",
+            "label": "Ball out of play",
+            "position": "1216000",
+            "half": "1",
+            "confidence": "0.08323304355144501"
+        },
+        {
+            "gameTime": "1 - 20:29",
+            "label": "Ball out of play",
+            "position": "1229000",
+            "half": "1",
+            "confidence": "0.36140838265419006"
+        },
+        {
+            "gameTime": "1 - 20:31",
+            "label": "Throw-in",
+            "position": "1231000",
+            "half": "1",
+            "confidence": "0.2795884907245636"
+        },
+        {
+            "gameTime": "1 - 20:43",
+            "label": "Foul",
+            "position": "1243500",
+            "half": "1",
+            "confidence": "0.08932247757911682"
+        },
+        {
+            "gameTime": "1 - 20:49",
+            "label": "Ball out of play",
+            "position": "1249500",
+            "half": "1",
+            "confidence": "0.09862162917852402"
+        },
+        {
+            "gameTime": "1 - 20:55",
+            "label": "Foul",
+            "position": "1255500",
+            "half": "1",
+            "confidence": "0.11073227971792221"
+        },
+        {
+            "gameTime": "1 - 21:1",
+            "label": "Indirect free-kick",
+            "position": "1261000",
+            "half": "1",
+            "confidence": "0.10398643463850021"
+        },
+        {
+            "gameTime": "1 - 21:6",
+            "label": "Ball out of play",
+            "position": "1266500",
+            "half": "1",
+            "confidence": "0.14305098354816437"
+        },
+        {
+            "gameTime": "1 - 21:11",
+            "label": "Throw-in",
+            "position": "1271000",
+            "half": "1",
+            "confidence": "0.1531801074743271"
+        },
+        {
+            "gameTime": "1 - 21:23",
+            "label": "Throw-in",
+            "position": "1283000",
+            "half": "1",
+            "confidence": "0.12890861928462982"
+        },
+        {
+            "gameTime": "1 - 21:33",
+            "label": "Throw-in",
+            "position": "1293500",
+            "half": "1",
+            "confidence": "0.024929285049438477"
+        },
+        {
+            "gameTime": "1 - 21:52",
+            "label": "Foul",
+            "position": "1312500",
+            "half": "1",
+            "confidence": "0.045002806931734085"
+        },
+        {
+            "gameTime": "1 - 22:9",
+            "label": "Foul",
+            "position": "1329000",
+            "half": "1",
+            "confidence": "0.5402876734733582"
+        },
+        {
+            "gameTime": "1 - 22:11",
+            "label": "Yellow card",
+            "position": "1331000",
+            "half": "1",
+            "confidence": "0.2558061182498932"
+        },
+        {
+            "gameTime": "1 - 22:26",
+            "label": "Yellow card",
+            "position": "1346000",
+            "half": "1",
+            "confidence": "0.1536375731229782"
+        },
+        {
+            "gameTime": "1 - 22:36",
+            "label": "Yellow card",
+            "position": "1356500",
+            "half": "1",
+            "confidence": "0.20055432617664337"
+        },
+        {
+            "gameTime": "1 - 22:47",
+            "label": "Goal",
+            "position": "1367500",
+            "half": "1",
+            "confidence": "0.10456547886133194"
+        },
+        {
+            "gameTime": "1 - 22:54",
+            "label": "Indirect free-kick",
+            "position": "1374500",
+            "half": "1",
+            "confidence": "0.07189522683620453"
+        },
+        {
+            "gameTime": "1 - 23:4",
+            "label": "Indirect free-kick",
+            "position": "1384500",
+            "half": "1",
+            "confidence": "0.06376694142818451"
+        },
+        {
+            "gameTime": "1 - 23:14",
+            "label": "Substitution",
+            "position": "1394000",
+            "half": "1",
+            "confidence": "0.06477632373571396"
+        },
+        {
+            "gameTime": "1 - 23:29",
+            "label": "Ball out of play",
+            "position": "1409500",
+            "half": "1",
+            "confidence": "0.7839890718460083"
+        },
+        {
+            "gameTime": "1 - 23:29",
+            "label": "Direct free-kick",
+            "position": "1409500",
+            "half": "1",
+            "confidence": "0.7710049748420715"
+        },
+        {
+            "gameTime": "1 - 23:47",
+            "label": "Clearance",
+            "position": "1427000",
+            "half": "1",
+            "confidence": "0.18549610674381256"
+        },
+        {
+            "gameTime": "1 - 23:49",
+            "label": "Ball out of play",
+            "position": "1429500",
+            "half": "1",
+            "confidence": "0.2010001391172409"
+        },
+        {
+            "gameTime": "1 - 23:59",
+            "label": "Corner",
+            "position": "1439000",
+            "half": "1",
+            "confidence": "0.6808875203132629"
+        },
+        {
+            "gameTime": "1 - 24:4",
+            "label": "Ball out of play",
+            "position": "1444500",
+            "half": "1",
+            "confidence": "0.1337728351354599"
+        },
+        {
+            "gameTime": "1 - 24:13",
+            "label": "Throw-in",
+            "position": "1453000",
+            "half": "1",
+            "confidence": "0.055038563907146454"
+        },
+        {
+            "gameTime": "1 - 24:32",
+            "label": "Foul",
+            "position": "1472500",
+            "half": "1",
+            "confidence": "0.6417737603187561"
+        },
+        {
+            "gameTime": "1 - 24:33",
+            "label": "Ball out of play",
+            "position": "1473500",
+            "half": "1",
+            "confidence": "0.49523621797561646"
+        },
+        {
+            "gameTime": "1 - 24:49",
+            "label": "Yellow card",
+            "position": "1489000",
+            "half": "1",
+            "confidence": "0.14049892127513885"
+        },
+        {
+            "gameTime": "1 - 24:59",
+            "label": "Direct free-kick",
+            "position": "1499500",
+            "half": "1",
+            "confidence": "0.717728853225708"
+        },
+        {
+            "gameTime": "1 - 25:5",
+            "label": "Ball out of play",
+            "position": "1505000",
+            "half": "1",
+            "confidence": "0.3750416040420532"
+        },
+        {
+            "gameTime": "1 - 25:16",
+            "label": "Indirect free-kick",
+            "position": "1516500",
+            "half": "1",
+            "confidence": "0.5530006289482117"
+        },
+        {
+            "gameTime": "1 - 25:28",
+            "label": "Throw-in",
+            "position": "1528500",
+            "half": "1",
+            "confidence": "0.0703308954834938"
+        },
+        {
+            "gameTime": "1 - 25:47",
+            "label": "Ball out of play",
+            "position": "1547000",
+            "half": "1",
+            "confidence": "0.8673505783081055"
+        },
+        {
+            "gameTime": "1 - 26:0",
+            "label": "Clearance",
+            "position": "1560500",
+            "half": "1",
+            "confidence": "0.08510691672563553"
+        },
+        {
+            "gameTime": "1 - 26:18",
+            "label": "Corner",
+            "position": "1578000",
+            "half": "1",
+            "confidence": "0.7787654399871826"
+        },
+        {
+            "gameTime": "1 - 26:27",
+            "label": "Ball out of play",
+            "position": "1587000",
+            "half": "1",
+            "confidence": "0.2799134850502014"
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "Corner",
+            "position": "1591000",
+            "half": "1",
+            "confidence": "0.19243787229061127"
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "Foul",
+            "position": "1591500",
+            "half": "1",
+            "confidence": "0.2843146324157715"
+        },
+        {
+            "gameTime": "1 - 26:49",
+            "label": "Indirect free-kick",
+            "position": "1609500",
+            "half": "1",
+            "confidence": "0.39882373809814453"
+        },
+        {
+            "gameTime": "1 - 27:6",
+            "label": "Indirect free-kick",
+            "position": "1626000",
+            "half": "1",
+            "confidence": "0.09355728328227997"
+        },
+        {
+            "gameTime": "1 - 27:12",
+            "label": "Foul",
+            "position": "1632500",
+            "half": "1",
+            "confidence": "0.28469738364219666"
+        },
+        {
+            "gameTime": "1 - 27:15",
+            "label": "Ball out of play",
+            "position": "1635000",
+            "half": "1",
+            "confidence": "0.6022747159004211"
+        },
+        {
+            "gameTime": "1 - 27:21",
+            "label": "Indirect free-kick",
+            "position": "1641500",
+            "half": "1",
+            "confidence": "0.5092073678970337"
+        },
+        {
+            "gameTime": "1 - 27:35",
+            "label": "Shots on target",
+            "position": "1655500",
+            "half": "1",
+            "confidence": "0.13989762961864471"
+        },
+        {
+            "gameTime": "1 - 27:39",
+            "label": "Ball out of play",
+            "position": "1659000",
+            "half": "1",
+            "confidence": "0.18360202014446259"
+        },
+        {
+            "gameTime": "1 - 27:46",
+            "label": "Shots on target",
+            "position": "1666500",
+            "half": "1",
+            "confidence": "0.3541910946369171"
+        },
+        {
+            "gameTime": "1 - 27:52",
+            "label": "Ball out of play",
+            "position": "1672000",
+            "half": "1",
+            "confidence": "0.2339177280664444"
+        },
+        {
+            "gameTime": "1 - 28:4",
+            "label": "Clearance",
+            "position": "1684500",
+            "half": "1",
+            "confidence": "0.3787020444869995"
+        },
+        {
+            "gameTime": "1 - 28:9",
+            "label": "Throw-in",
+            "position": "1689000",
+            "half": "1",
+            "confidence": "0.08921851962804794"
+        },
+        {
+            "gameTime": "1 - 28:22",
+            "label": "Ball out of play",
+            "position": "1702000",
+            "half": "1",
+            "confidence": "0.7301816344261169"
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "Throw-in",
+            "position": "1715000",
+            "half": "1",
+            "confidence": "0.6615204215049744"
+        },
+        {
+            "gameTime": "1 - 28:53",
+            "label": "Throw-in",
+            "position": "1733500",
+            "half": "1",
+            "confidence": "0.14412926137447357"
+        },
+        {
+            "gameTime": "1 - 28:54",
+            "label": "Foul",
+            "position": "1734000",
+            "half": "1",
+            "confidence": "0.11067648231983185"
+        },
+        {
+            "gameTime": "1 - 29:1",
+            "label": "Indirect free-kick",
+            "position": "1741000",
+            "half": "1",
+            "confidence": "0.13705883920192719"
+        },
+        {
+            "gameTime": "1 - 29:24",
+            "label": "Foul",
+            "position": "1764000",
+            "half": "1",
+            "confidence": "0.7258504033088684"
+        },
+        {
+            "gameTime": "1 - 29:32",
+            "label": "Yellow card",
+            "position": "1772500",
+            "half": "1",
+            "confidence": "0.2563275694847107"
+        },
+        {
+            "gameTime": "1 - 29:43",
+            "label": "Yellow card",
+            "position": "1783500",
+            "half": "1",
+            "confidence": "0.021408725529909134"
+        },
+        {
+            "gameTime": "1 - 29:51",
+            "label": "Indirect free-kick",
+            "position": "1791500",
+            "half": "1",
+            "confidence": "0.029076308012008667"
+        },
+        {
+            "gameTime": "1 - 30:3",
+            "label": "Yellow card",
+            "position": "1803500",
+            "half": "1",
+            "confidence": "0.15015937387943268"
+        },
+        {
+            "gameTime": "1 - 30:8",
+            "label": "Indirect free-kick",
+            "position": "1808500",
+            "half": "1",
+            "confidence": "0.20857329666614532"
+        },
+        {
+            "gameTime": "1 - 30:22",
+            "label": "Indirect free-kick",
+            "position": "1822500",
+            "half": "1",
+            "confidence": "0.5817461013793945"
+        },
+        {
+            "gameTime": "1 - 30:32",
+            "label": "Shots off target",
+            "position": "1832500",
+            "half": "1",
+            "confidence": "0.18999707698822021"
+        },
+        {
+            "gameTime": "1 - 30:37",
+            "label": "Indirect free-kick",
+            "position": "1837000",
+            "half": "1",
+            "confidence": "0.17481255531311035"
+        },
+        {
+            "gameTime": "1 - 30:40",
+            "label": "Ball out of play",
+            "position": "1840000",
+            "half": "1",
+            "confidence": "0.4400138854980469"
+        },
+        {
+            "gameTime": "1 - 30:58",
+            "label": "Clearance",
+            "position": "1858000",
+            "half": "1",
+            "confidence": "0.6518357992172241"
+        },
+        {
+            "gameTime": "1 - 31:23",
+            "label": "Clearance",
+            "position": "1883000",
+            "half": "1",
+            "confidence": "0.5158967971801758"
+        },
+        {
+            "gameTime": "1 - 31:39",
+            "label": "Throw-in",
+            "position": "1899000",
+            "half": "1",
+            "confidence": "0.12970516085624695"
+        },
+        {
+            "gameTime": "1 - 31:43",
+            "label": "Indirect free-kick",
+            "position": "1903500",
+            "half": "1",
+            "confidence": "0.13245302438735962"
+        },
+        {
+            "gameTime": "1 - 31:58",
+            "label": "Shots on target",
+            "position": "1918500",
+            "half": "1",
+            "confidence": "0.10153921693563461"
+        },
+        {
+            "gameTime": "1 - 32:14",
+            "label": "Foul",
+            "position": "1934500",
+            "half": "1",
+            "confidence": "0.6065068244934082"
+        },
+        {
+            "gameTime": "1 - 32:21",
+            "label": "Indirect free-kick",
+            "position": "1941500",
+            "half": "1",
+            "confidence": "0.4381279945373535"
+        },
+        {
+            "gameTime": "1 - 32:43",
+            "label": "Foul",
+            "position": "1963500",
+            "half": "1",
+            "confidence": "0.6011110544204712"
+        },
+        {
+            "gameTime": "1 - 32:46",
+            "label": "Yellow card",
+            "position": "1966500",
+            "half": "1",
+            "confidence": "0.4067411720752716"
+        },
+        {
+            "gameTime": "1 - 32:59",
+            "label": "Yellow card",
+            "position": "1979000",
+            "half": "1",
+            "confidence": "0.19051164388656616"
+        },
+        {
+            "gameTime": "1 - 33:6",
+            "label": "Substitution",
+            "position": "1986000",
+            "half": "1",
+            "confidence": "0.19507989287376404"
+        },
+        {
+            "gameTime": "1 - 33:26",
+            "label": "Substitution",
+            "position": "2006000",
+            "half": "1",
+            "confidence": "0.1463625133037567"
+        },
+        {
+            "gameTime": "1 - 33:41",
+            "label": "Substitution",
+            "position": "2021500",
+            "half": "1",
+            "confidence": "0.6332250237464905"
+        },
+        {
+            "gameTime": "1 - 33:45",
+            "label": "Throw-in",
+            "position": "2025500",
+            "half": "1",
+            "confidence": "0.7762443423271179"
+        },
+        {
+            "gameTime": "1 - 33:54",
+            "label": "Indirect free-kick",
+            "position": "2034000",
+            "half": "1",
+            "confidence": "0.17263665795326233"
+        },
+        {
+            "gameTime": "1 - 34:10",
+            "label": "Indirect free-kick",
+            "position": "2050000",
+            "half": "1",
+            "confidence": "0.09223523736000061"
+        },
+        {
+            "gameTime": "1 - 34:17",
+            "label": "Shots on target",
+            "position": "2057000",
+            "half": "1",
+            "confidence": "0.08455424010753632"
+        },
+        {
+            "gameTime": "1 - 34:32",
+            "label": "Shots on target",
+            "position": "2072500",
+            "half": "1",
+            "confidence": "0.18479441106319427"
+        },
+        {
+            "gameTime": "1 - 34:36",
+            "label": "Ball out of play",
+            "position": "2076000",
+            "half": "1",
+            "confidence": "0.5641806721687317"
+        },
+        {
+            "gameTime": "1 - 34:38",
+            "label": "Indirect free-kick",
+            "position": "2078000",
+            "half": "1",
+            "confidence": "0.1386803835630417"
+        },
+        {
+            "gameTime": "1 - 34:47",
+            "label": "Throw-in",
+            "position": "2087500",
+            "half": "1",
+            "confidence": "0.35566282272338867"
+        },
+        {
+            "gameTime": "1 - 34:53",
+            "label": "Foul",
+            "position": "2093500",
+            "half": "1",
+            "confidence": "0.11920049786567688"
+        },
+        {
+            "gameTime": "1 - 35:5",
+            "label": "Foul",
+            "position": "2105000",
+            "half": "1",
+            "confidence": "0.3134458363056183"
+        },
+        {
+            "gameTime": "1 - 35:16",
+            "label": "Indirect free-kick",
+            "position": "2116500",
+            "half": "1",
+            "confidence": "0.7110090851783752"
+        },
+        {
+            "gameTime": "1 - 35:25",
+            "label": "Ball out of play",
+            "position": "2125500",
+            "half": "1",
+            "confidence": "0.7568557858467102"
+        },
+        {
+            "gameTime": "1 - 35:37",
+            "label": "Ball out of play",
+            "position": "2137000",
+            "half": "1",
+            "confidence": "0.6870059967041016"
+        },
+        {
+            "gameTime": "1 - 35:42",
+            "label": "Throw-in",
+            "position": "2142000",
+            "half": "1",
+            "confidence": "0.6629179120063782"
+        },
+        {
+            "gameTime": "1 - 35:47",
+            "label": "Ball out of play",
+            "position": "2147500",
+            "half": "1",
+            "confidence": "0.7012020349502563"
+        },
+        {
+            "gameTime": "1 - 35:58",
+            "label": "Throw-in",
+            "position": "2158000",
+            "half": "1",
+            "confidence": "0.4851844906806946"
+        },
+        {
+            "gameTime": "1 - 36:8",
+            "label": "Foul",
+            "position": "2168000",
+            "half": "1",
+            "confidence": "0.7791935801506042"
+        },
+        {
+            "gameTime": "1 - 36:22",
+            "label": "Indirect free-kick",
+            "position": "2182500",
+            "half": "1",
+            "confidence": "0.04353618249297142"
+        },
+        {
+            "gameTime": "1 - 36:36",
+            "label": "Indirect free-kick",
+            "position": "2196000",
+            "half": "1",
+            "confidence": "0.5240689516067505"
+        },
+        {
+            "gameTime": "1 - 36:40",
+            "label": "Ball out of play",
+            "position": "2200000",
+            "half": "1",
+            "confidence": "0.6321700215339661"
+        },
+        {
+            "gameTime": "1 - 36:49",
+            "label": "Indirect free-kick",
+            "position": "2209000",
+            "half": "1",
+            "confidence": "0.4676412045955658"
+        },
+        {
+            "gameTime": "1 - 36:55",
+            "label": "Throw-in",
+            "position": "2215500",
+            "half": "1",
+            "confidence": "0.2565021812915802"
+        },
+        {
+            "gameTime": "1 - 37:3",
+            "label": "Ball out of play",
+            "position": "2223500",
+            "half": "1",
+            "confidence": "0.6707002520561218"
+        },
+        {
+            "gameTime": "1 - 37:14",
+            "label": "Throw-in",
+            "position": "2234000",
+            "half": "1",
+            "confidence": "0.6589183807373047"
+        },
+        {
+            "gameTime": "1 - 37:29",
+            "label": "Throw-in",
+            "position": "2249000",
+            "half": "1",
+            "confidence": "0.14348630607128143"
+        },
+        {
+            "gameTime": "1 - 37:41",
+            "label": "Ball out of play",
+            "position": "2261500",
+            "half": "1",
+            "confidence": "0.17202498018741608"
+        },
+        {
+            "gameTime": "1 - 37:45",
+            "label": "Throw-in",
+            "position": "2265500",
+            "half": "1",
+            "confidence": "0.07417336106300354"
+        },
+        {
+            "gameTime": "1 - 37:59",
+            "label": "Throw-in",
+            "position": "2279000",
+            "half": "1",
+            "confidence": "0.17694838345050812"
+        },
+        {
+            "gameTime": "1 - 38:9",
+            "label": "Throw-in",
+            "position": "2289000",
+            "half": "1",
+            "confidence": "0.12248875200748444"
+        },
+        {
+            "gameTime": "1 - 38:15",
+            "label": "Shots on target",
+            "position": "2295000",
+            "half": "1",
+            "confidence": "0.06720776110887527"
+        },
+        {
+            "gameTime": "1 - 38:25",
+            "label": "Shots on target",
+            "position": "2305000",
+            "half": "1",
+            "confidence": "0.041017986834049225"
+        },
+        {
+            "gameTime": "1 - 38:37",
+            "label": "Shots off target",
+            "position": "2317500",
+            "half": "1",
+            "confidence": "0.70390385389328"
+        },
+        {
+            "gameTime": "1 - 38:38",
+            "label": "Ball out of play",
+            "position": "2318000",
+            "half": "1",
+            "confidence": "0.7756645679473877"
+        },
+        {
+            "gameTime": "1 - 38:50",
+            "label": "Throw-in",
+            "position": "2330000",
+            "half": "1",
+            "confidence": "0.07417646795511246"
+        },
+        {
+            "gameTime": "1 - 39:4",
+            "label": "Clearance",
+            "position": "2344500",
+            "half": "1",
+            "confidence": "0.5545840859413147"
+        },
+        {
+            "gameTime": "1 - 39:14",
+            "label": "Ball out of play",
+            "position": "2354000",
+            "half": "1",
+            "confidence": "0.6235292553901672"
+        },
+        {
+            "gameTime": "1 - 39:31",
+            "label": "Throw-in",
+            "position": "2371500",
+            "half": "1",
+            "confidence": "0.6336175203323364"
+        },
+        {
+            "gameTime": "1 - 39:35",
+            "label": "Ball out of play",
+            "position": "2375500",
+            "half": "1",
+            "confidence": "0.24132856726646423"
+        },
+        {
+            "gameTime": "1 - 39:49",
+            "label": "Shots on target",
+            "position": "2389500",
+            "half": "1",
+            "confidence": "0.44495177268981934"
+        },
+        {
+            "gameTime": "1 - 39:53",
+            "label": "Ball out of play",
+            "position": "2393000",
+            "half": "1",
+            "confidence": "0.6051572561264038"
+        },
+        {
+            "gameTime": "1 - 40:3",
+            "label": "Ball out of play",
+            "position": "2403500",
+            "half": "1",
+            "confidence": "0.15739719569683075"
+        },
+        {
+            "gameTime": "1 - 40:21",
+            "label": "Throw-in",
+            "position": "2421500",
+            "half": "1",
+            "confidence": "0.9141954183578491"
+        },
+        {
+            "gameTime": "1 - 40:29",
+            "label": "Corner",
+            "position": "2429000",
+            "half": "1",
+            "confidence": "0.1467149704694748"
+        },
+        {
+            "gameTime": "1 - 40:32",
+            "label": "Ball out of play",
+            "position": "2432500",
+            "half": "1",
+            "confidence": "0.15101778507232666"
+        },
+        {
+            "gameTime": "1 - 40:39",
+            "label": "Foul",
+            "position": "2439000",
+            "half": "1",
+            "confidence": "0.7318950891494751"
+        },
+        {
+            "gameTime": "1 - 40:39",
+            "label": "Shots on target",
+            "position": "2439500",
+            "half": "1",
+            "confidence": "0.6878339648246765"
+        },
+        {
+            "gameTime": "1 - 40:53",
+            "label": "Yellow card",
+            "position": "2453500",
+            "half": "1",
+            "confidence": "0.161122128367424"
+        },
+        {
+            "gameTime": "1 - 41:6",
+            "label": "Yellow card",
+            "position": "2466500",
+            "half": "1",
+            "confidence": "0.17012126743793488"
+        },
+        {
+            "gameTime": "1 - 41:21",
+            "label": "Yellow card",
+            "position": "2481500",
+            "half": "1",
+            "confidence": "0.19647492468357086"
+        },
+        {
+            "gameTime": "1 - 41:29",
+            "label": "Indirect free-kick",
+            "position": "2489000",
+            "half": "1",
+            "confidence": "0.10795000940561295"
+        },
+        {
+            "gameTime": "1 - 41:37",
+            "label": "Kick-off",
+            "position": "2497500",
+            "half": "1",
+            "confidence": "0.11209851503372192"
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "Indirect free-kick",
+            "position": "2503500",
+            "half": "1",
+            "confidence": "0.3909333050251007"
+        },
+        {
+            "gameTime": "1 - 42:9",
+            "label": "Ball out of play",
+            "position": "2529500",
+            "half": "1",
+            "confidence": "0.5077490210533142"
+        },
+        {
+            "gameTime": "1 - 42:20",
+            "label": "Foul",
+            "position": "2540000",
+            "half": "1",
+            "confidence": "0.601983368396759"
+        },
+        {
+            "gameTime": "1 - 42:23",
+            "label": "Yellow card",
+            "position": "2543000",
+            "half": "1",
+            "confidence": "0.47923314571380615"
+        },
+        {
+            "gameTime": "1 - 42:36",
+            "label": "Yellow card",
+            "position": "2556000",
+            "half": "1",
+            "confidence": "0.09077634662389755"
+        },
+        {
+            "gameTime": "1 - 42:55",
+            "label": "Yellow card",
+            "position": "2575500",
+            "half": "1",
+            "confidence": "0.191917285323143"
+        },
+        {
+            "gameTime": "1 - 43:13",
+            "label": "Yellow card",
+            "position": "2593000",
+            "half": "1",
+            "confidence": "0.10910041630268097"
+        },
+        {
+            "gameTime": "1 - 43:22",
+            "label": "Indirect free-kick",
+            "position": "2602000",
+            "half": "1",
+            "confidence": "0.6379646062850952"
+        },
+        {
+            "gameTime": "1 - 43:25",
+            "label": "Direct free-kick",
+            "position": "2605000",
+            "half": "1",
+            "confidence": "0.4427354633808136"
+        },
+        {
+            "gameTime": "1 - 43:29",
+            "label": "Shots on target",
+            "position": "2609000",
+            "half": "1",
+            "confidence": "0.39035505056381226"
+        },
+        {
+            "gameTime": "1 - 43:38",
+            "label": "Indirect free-kick",
+            "position": "2618000",
+            "half": "1",
+            "confidence": "0.19045893847942352"
+        },
+        {
+            "gameTime": "1 - 43:50",
+            "label": "Indirect free-kick",
+            "position": "2630500",
+            "half": "1",
+            "confidence": "0.08531901985406876"
+        },
+        {
+            "gameTime": "1 - 43:59",
+            "label": "Shots on target",
+            "position": "2639500",
+            "half": "1",
+            "confidence": "0.06443654745817184"
+        },
+        {
+            "gameTime": "1 - 44:11",
+            "label": "Foul",
+            "position": "2651000",
+            "half": "1",
+            "confidence": "0.6497431993484497"
+        },
+        {
+            "gameTime": "1 - 44:22",
+            "label": "Yellow card",
+            "position": "2662000",
+            "half": "1",
+            "confidence": "0.03688431903719902"
+        },
+        {
+            "gameTime": "1 - 44:32",
+            "label": "Indirect free-kick",
+            "position": "2672500",
+            "half": "1",
+            "confidence": "0.050399187952280045"
+        },
+        {
+            "gameTime": "1 - 44:44",
+            "label": "Indirect free-kick",
+            "position": "2684000",
+            "half": "1",
+            "confidence": "0.4680795967578888"
+        },
+        {
+            "gameTime": "1 - 44:53",
+            "label": "Foul",
+            "position": "2693500",
+            "half": "1",
+            "confidence": "0.4262211322784424"
+        },
+        {
+            "gameTime": "1 - 44:55",
+            "label": "Ball out of play",
+            "position": "2695000",
+            "half": "1",
+            "confidence": "0.7294197082519531"
+        },
+        {
+            "gameTime": "1 - 45:4",
+            "label": "Substitution",
+            "position": "2704000",
+            "half": "1",
+            "confidence": "0.1252545416355133"
+        },
+        {
+            "gameTime": "1 - 45:19",
+            "label": "Substitution",
+            "position": "2719000",
+            "half": "1",
+            "confidence": "0.3312159478664398"
+        },
+        {
+            "gameTime": "1 - 45:28",
+            "label": "Clearance",
+            "position": "2728500",
+            "half": "1",
+            "confidence": "0.46829459071159363"
+        },
+        {
+            "gameTime": "1 - 45:43",
+            "label": "Goal",
+            "position": "2743000",
+            "half": "1",
+            "confidence": "0.9197081327438354"
+        },
+        {
+            "gameTime": "1 - 45:44",
+            "label": "Shots on target",
+            "position": "2744500",
+            "half": "1",
+            "confidence": "0.9012205004692078"
+        },
+        {
+            "gameTime": "1 - 45:52",
+            "label": "Kick-off",
+            "position": "2752000",
+            "half": "1",
+            "confidence": "0.06934725493192673"
+        },
+        {
+            "gameTime": "1 - 45:56",
+            "label": "Shots on target",
+            "position": "2756500",
+            "half": "1",
+            "confidence": "0.09502473473548889"
+        },
+        {
+            "gameTime": "1 - 46:3",
+            "label": "Goal",
+            "position": "2763000",
+            "half": "1",
+            "confidence": "0.08470366150140762"
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "Kick-off",
+            "position": "2770500",
+            "half": "1",
+            "confidence": "0.0858563631772995"
+        },
+        {
+            "gameTime": "1 - 46:27",
+            "label": "Kick-off",
+            "position": "2787000",
+            "half": "1",
+            "confidence": "0.11934638023376465"
+        },
+        {
+            "gameTime": "1 - 46:38",
+            "label": "Kick-off",
+            "position": "2798500",
+            "half": "1",
+            "confidence": "0.08094896376132965"
+        },
+        {
+            "gameTime": "1 - 46:45",
+            "label": "Penalty",
+            "position": "2805000",
+            "half": "1",
+            "confidence": "0.07852336764335632"
+        },
+        {
+            "gameTime": "1 - 46:51",
+            "label": "Kick-off",
+            "position": "2811000",
+            "half": "1",
+            "confidence": "0.02948054112493992"
+        },
+        {
+            "gameTime": "2 - 0:25",
+            "label": "Throw-in",
+            "position": "25000",
+            "half": "2",
+            "confidence": "0.0315159447491169"
+        },
+        {
+            "gameTime": "2 - 0:37",
+            "label": "Ball out of play",
+            "position": "37500",
+            "half": "2",
+            "confidence": "0.13174962997436523"
+        },
+        {
+            "gameTime": "2 - 0:48",
+            "label": "Throw-in",
+            "position": "48000",
+            "half": "2",
+            "confidence": "0.0988263189792633"
+        },
+        {
+            "gameTime": "2 - 1:4",
+            "label": "Ball out of play",
+            "position": "64500",
+            "half": "2",
+            "confidence": "0.5174369812011719"
+        },
+        {
+            "gameTime": "2 - 1:17",
+            "label": "Throw-in",
+            "position": "77000",
+            "half": "2",
+            "confidence": "0.5211547017097473"
+        },
+        {
+            "gameTime": "2 - 1:33",
+            "label": "Throw-in",
+            "position": "93500",
+            "half": "2",
+            "confidence": "0.04550523683428764"
+        },
+        {
+            "gameTime": "2 - 1:45",
+            "label": "Ball out of play",
+            "position": "105000",
+            "half": "2",
+            "confidence": "0.016854163259267807"
+        },
+        {
+            "gameTime": "2 - 1:49",
+            "label": "Foul",
+            "position": "109500",
+            "half": "2",
+            "confidence": "0.05041532590985298"
+        },
+        {
+            "gameTime": "2 - 2:3",
+            "label": "Foul",
+            "position": "123000",
+            "half": "2",
+            "confidence": "0.04753485321998596"
+        },
+        {
+            "gameTime": "2 - 2:12",
+            "label": "Shots on target",
+            "position": "132500",
+            "half": "2",
+            "confidence": "0.0940307155251503"
+        },
+        {
+            "gameTime": "2 - 2:27",
+            "label": "Shots on target",
+            "position": "147500",
+            "half": "2",
+            "confidence": "0.3364570736885071"
+        },
+        {
+            "gameTime": "2 - 2:29",
+            "label": "Offside",
+            "position": "149000",
+            "half": "2",
+            "confidence": "0.7325384020805359"
+        },
+        {
+            "gameTime": "2 - 2:44",
+            "label": "Yellow card",
+            "position": "164000",
+            "half": "2",
+            "confidence": "0.07955325394868851"
+        },
+        {
+            "gameTime": "2 - 2:54",
+            "label": "Foul",
+            "position": "174000",
+            "half": "2",
+            "confidence": "0.11860668659210205"
+        },
+        {
+            "gameTime": "2 - 2:58",
+            "label": "Indirect free-kick",
+            "position": "178000",
+            "half": "2",
+            "confidence": "0.41089749336242676"
+        },
+        {
+            "gameTime": "2 - 3:2",
+            "label": "Kick-off",
+            "position": "182000",
+            "half": "2",
+            "confidence": "0.5344277620315552"
+        },
+        {
+            "gameTime": "2 - 3:14",
+            "label": "Ball out of play",
+            "position": "194500",
+            "half": "2",
+            "confidence": "0.4169009029865265"
+        },
+        {
+            "gameTime": "2 - 3:26",
+            "label": "Clearance",
+            "position": "206500",
+            "half": "2",
+            "confidence": "0.5529968738555908"
+        },
+        {
+            "gameTime": "2 - 3:33",
+            "label": "Throw-in",
+            "position": "213500",
+            "half": "2",
+            "confidence": "0.10455037653446198"
+        },
+        {
+            "gameTime": "2 - 3:44",
+            "label": "Throw-in",
+            "position": "224000",
+            "half": "2",
+            "confidence": "0.3664974570274353"
+        },
+        {
+            "gameTime": "2 - 3:48",
+            "label": "Ball out of play",
+            "position": "228500",
+            "half": "2",
+            "confidence": "0.4824163019657135"
+        },
+        {
+            "gameTime": "2 - 3:51",
+            "label": "Offside",
+            "position": "231500",
+            "half": "2",
+            "confidence": "0.696492075920105"
+        },
+        {
+            "gameTime": "2 - 4:0",
+            "label": "Throw-in",
+            "position": "240500",
+            "half": "2",
+            "confidence": "0.21216215193271637"
+        },
+        {
+            "gameTime": "2 - 4:5",
+            "label": "Indirect free-kick",
+            "position": "245500",
+            "half": "2",
+            "confidence": "0.6622992157936096"
+        },
+        {
+            "gameTime": "2 - 4:25",
+            "label": "Shots off target",
+            "position": "265500",
+            "half": "2",
+            "confidence": "0.009937587194144726"
+        },
+        {
+            "gameTime": "2 - 4:34",
+            "label": "Shots on target",
+            "position": "274000",
+            "half": "2",
+            "confidence": "0.04341018944978714"
+        },
+        {
+            "gameTime": "2 - 4:46",
+            "label": "Ball out of play",
+            "position": "286000",
+            "half": "2",
+            "confidence": "0.5963833928108215"
+        },
+        {
+            "gameTime": "2 - 5:4",
+            "label": "Throw-in",
+            "position": "304000",
+            "half": "2",
+            "confidence": "0.6818417310714722"
+        },
+        {
+            "gameTime": "2 - 5:6",
+            "label": "Ball out of play",
+            "position": "306500",
+            "half": "2",
+            "confidence": "0.7338102459907532"
+        },
+        {
+            "gameTime": "2 - 5:14",
+            "label": "Substitution",
+            "position": "314500",
+            "half": "2",
+            "confidence": "0.2985025644302368"
+        },
+        {
+            "gameTime": "2 - 5:37",
+            "label": "Substitution",
+            "position": "337000",
+            "half": "2",
+            "confidence": "0.23310521245002747"
+        },
+        {
+            "gameTime": "2 - 5:43",
+            "label": "Clearance",
+            "position": "343500",
+            "half": "2",
+            "confidence": "0.7535447478294373"
+        },
+        {
+            "gameTime": "2 - 5:48",
+            "label": "Ball out of play",
+            "position": "348000",
+            "half": "2",
+            "confidence": "0.8125911355018616"
+        },
+        {
+            "gameTime": "2 - 6:4",
+            "label": "Throw-in",
+            "position": "364500",
+            "half": "2",
+            "confidence": "0.779708981513977"
+        },
+        {
+            "gameTime": "2 - 6:8",
+            "label": "Foul",
+            "position": "368000",
+            "half": "2",
+            "confidence": "0.2559307813644409"
+        },
+        {
+            "gameTime": "2 - 6:15",
+            "label": "Indirect free-kick",
+            "position": "375500",
+            "half": "2",
+            "confidence": "0.3590107560157776"
+        },
+        {
+            "gameTime": "2 - 6:19",
+            "label": "Foul",
+            "position": "379000",
+            "half": "2",
+            "confidence": "0.8005430698394775"
+        },
+        {
+            "gameTime": "2 - 6:34",
+            "label": "Indirect free-kick",
+            "position": "394500",
+            "half": "2",
+            "confidence": "0.7596800327301025"
+        },
+        {
+            "gameTime": "2 - 6:41",
+            "label": "Ball out of play",
+            "position": "401500",
+            "half": "2",
+            "confidence": "0.7572630643844604"
+        },
+        {
+            "gameTime": "2 - 6:57",
+            "label": "Indirect free-kick",
+            "position": "417000",
+            "half": "2",
+            "confidence": "0.5836765766143799"
+        },
+        {
+            "gameTime": "2 - 7:7",
+            "label": "Ball out of play",
+            "position": "427500",
+            "half": "2",
+            "confidence": "0.3146585524082184"
+        },
+        {
+            "gameTime": "2 - 7:13",
+            "label": "Foul",
+            "position": "433500",
+            "half": "2",
+            "confidence": "0.1615322381258011"
+        },
+        {
+            "gameTime": "2 - 7:20",
+            "label": "Throw-in",
+            "position": "440500",
+            "half": "2",
+            "confidence": "0.18338614702224731"
+        },
+        {
+            "gameTime": "2 - 7:35",
+            "label": "Foul",
+            "position": "455000",
+            "half": "2",
+            "confidence": "0.7535630464553833"
+        },
+        {
+            "gameTime": "2 - 7:42",
+            "label": "Yellow card",
+            "position": "462000",
+            "half": "2",
+            "confidence": "0.2024809867143631"
+        },
+        {
+            "gameTime": "2 - 7:56",
+            "label": "Yellow card",
+            "position": "476000",
+            "half": "2",
+            "confidence": "0.09292089194059372"
+        },
+        {
+            "gameTime": "2 - 8:6",
+            "label": "Yellow card",
+            "position": "486500",
+            "half": "2",
+            "confidence": "0.31082436442375183"
+        },
+        {
+            "gameTime": "2 - 8:24",
+            "label": "Yellow card",
+            "position": "504000",
+            "half": "2",
+            "confidence": "0.037774939090013504"
+        },
+        {
+            "gameTime": "2 - 8:37",
+            "label": "Yellow card",
+            "position": "517000",
+            "half": "2",
+            "confidence": "0.1201331689953804"
+        },
+        {
+            "gameTime": "2 - 8:53",
+            "label": "Yellow card",
+            "position": "533000",
+            "half": "2",
+            "confidence": "0.1827409416437149"
+        },
+        {
+            "gameTime": "2 - 9:15",
+            "label": "Direct free-kick",
+            "position": "555000",
+            "half": "2",
+            "confidence": "0.7023105621337891"
+        },
+        {
+            "gameTime": "2 - 9:20",
+            "label": "Indirect free-kick",
+            "position": "560500",
+            "half": "2",
+            "confidence": "0.4352637231349945"
+        },
+        {
+            "gameTime": "2 - 9:31",
+            "label": "Indirect free-kick",
+            "position": "571500",
+            "half": "2",
+            "confidence": "0.048040084540843964"
+        },
+        {
+            "gameTime": "2 - 9:36",
+            "label": "Direct free-kick",
+            "position": "576000",
+            "half": "2",
+            "confidence": "0.1916249841451645"
+        },
+        {
+            "gameTime": "2 - 9:55",
+            "label": "Ball out of play",
+            "position": "595000",
+            "half": "2",
+            "confidence": "0.2207275927066803"
+        },
+        {
+            "gameTime": "2 - 9:59",
+            "label": "Throw-in",
+            "position": "599000",
+            "half": "2",
+            "confidence": "0.23469044268131256"
+        },
+        {
+            "gameTime": "2 - 10:9",
+            "label": "Throw-in",
+            "position": "609500",
+            "half": "2",
+            "confidence": "0.11348249763250351"
+        },
+        {
+            "gameTime": "2 - 10:17",
+            "label": "Foul",
+            "position": "617000",
+            "half": "2",
+            "confidence": "0.091310054063797"
+        },
+        {
+            "gameTime": "2 - 10:33",
+            "label": "Foul",
+            "position": "633500",
+            "half": "2",
+            "confidence": "0.7369307279586792"
+        },
+        {
+            "gameTime": "2 - 10:39",
+            "label": "Yellow card",
+            "position": "639500",
+            "half": "2",
+            "confidence": "0.4395720660686493"
+        },
+        {
+            "gameTime": "2 - 10:54",
+            "label": "Yellow card",
+            "position": "654500",
+            "half": "2",
+            "confidence": "0.11023326963186264"
+        },
+        {
+            "gameTime": "2 - 11:3",
+            "label": "Indirect free-kick",
+            "position": "663500",
+            "half": "2",
+            "confidence": "0.3202109932899475"
+        },
+        {
+            "gameTime": "2 - 11:20",
+            "label": "Foul",
+            "position": "680000",
+            "half": "2",
+            "confidence": "0.3953893184661865"
+        },
+        {
+            "gameTime": "2 - 11:23",
+            "label": "Yellow card",
+            "position": "683500",
+            "half": "2",
+            "confidence": "0.19299311935901642"
+        },
+        {
+            "gameTime": "2 - 11:43",
+            "label": "Yellow card",
+            "position": "703500",
+            "half": "2",
+            "confidence": "0.2957884967327118"
+        },
+        {
+            "gameTime": "2 - 11:47",
+            "label": "Substitution",
+            "position": "707500",
+            "half": "2",
+            "confidence": "0.6009120345115662"
+        },
+        {
+            "gameTime": "2 - 11:50",
+            "label": "Indirect free-kick",
+            "position": "710000",
+            "half": "2",
+            "confidence": "0.18245995044708252"
+        },
+        {
+            "gameTime": "2 - 12:2",
+            "label": "Indirect free-kick",
+            "position": "722000",
+            "half": "2",
+            "confidence": "0.4675194025039673"
+        },
+        {
+            "gameTime": "2 - 12:5",
+            "label": "Shots on target",
+            "position": "725000",
+            "half": "2",
+            "confidence": "0.4160732328891754"
+        },
+        {
+            "gameTime": "2 - 12:13",
+            "label": "Foul",
+            "position": "733500",
+            "half": "2",
+            "confidence": "0.5073674321174622"
+        },
+        {
+            "gameTime": "2 - 12:22",
+            "label": "Yellow card",
+            "position": "742000",
+            "half": "2",
+            "confidence": "0.04188710078597069"
+        },
+        {
+            "gameTime": "2 - 12:47",
+            "label": "Substitution",
+            "position": "767500",
+            "half": "2",
+            "confidence": "0.2912389636039734"
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "Indirect free-kick",
+            "position": "775000",
+            "half": "2",
+            "confidence": "0.5193347334861755"
+        },
+        {
+            "gameTime": "2 - 13:1",
+            "label": "Clearance",
+            "position": "781500",
+            "half": "2",
+            "confidence": "0.148590549826622"
+        },
+        {
+            "gameTime": "2 - 13:9",
+            "label": "Shots on target",
+            "position": "789000",
+            "half": "2",
+            "confidence": "0.0532308928668499"
+        },
+        {
+            "gameTime": "2 - 13:19",
+            "label": "Shots on target",
+            "position": "799500",
+            "half": "2",
+            "confidence": "0.05436917766928673"
+        },
+        {
+            "gameTime": "2 - 13:32",
+            "label": "Foul",
+            "position": "812000",
+            "half": "2",
+            "confidence": "0.5773755311965942"
+        },
+        {
+            "gameTime": "2 - 13:46",
+            "label": "Indirect free-kick",
+            "position": "826500",
+            "half": "2",
+            "confidence": "0.5082858204841614"
+        },
+        {
+            "gameTime": "2 - 14:5",
+            "label": "Ball out of play",
+            "position": "845500",
+            "half": "2",
+            "confidence": "0.5926071405410767"
+        },
+        {
+            "gameTime": "2 - 14:19",
+            "label": "Ball out of play",
+            "position": "859500",
+            "half": "2",
+            "confidence": "0.16751037538051605"
+        },
+        {
+            "gameTime": "2 - 14:31",
+            "label": "Corner",
+            "position": "871500",
+            "half": "2",
+            "confidence": "0.7395989894866943"
+        },
+        {
+            "gameTime": "2 - 14:37",
+            "label": "Foul",
+            "position": "877000",
+            "half": "2",
+            "confidence": "0.6020444631576538"
+        },
+        {
+            "gameTime": "2 - 14:40",
+            "label": "Offside",
+            "position": "880500",
+            "half": "2",
+            "confidence": "0.3611004054546356"
+        },
+        {
+            "gameTime": "2 - 14:47",
+            "label": "Yellow card",
+            "position": "887500",
+            "half": "2",
+            "confidence": "0.13036294281482697"
+        },
+        {
+            "gameTime": "2 - 14:57",
+            "label": "Indirect free-kick",
+            "position": "897500",
+            "half": "2",
+            "confidence": "0.09325273334980011"
+        },
+        {
+            "gameTime": "2 - 15:4",
+            "label": "Clearance",
+            "position": "904000",
+            "half": "2",
+            "confidence": "0.4996086359024048"
+        },
+        {
+            "gameTime": "2 - 15:12",
+            "label": "Shots on target",
+            "position": "912500",
+            "half": "2",
+            "confidence": "0.12432089447975159"
+        },
+        {
+            "gameTime": "2 - 15:19",
+            "label": "Goal",
+            "position": "919000",
+            "half": "2",
+            "confidence": "0.7199718952178955"
+        },
+        {
+            "gameTime": "2 - 15:34",
+            "label": "Goal",
+            "position": "934000",
+            "half": "2",
+            "confidence": "0.026953725144267082"
+        },
+        {
+            "gameTime": "2 - 15:41",
+            "label": "Kick-off",
+            "position": "941500",
+            "half": "2",
+            "confidence": "0.16431689262390137"
+        },
+        {
+            "gameTime": "2 - 15:59",
+            "label": "Kick-off",
+            "position": "959000",
+            "half": "2",
+            "confidence": "0.09665865451097488"
+        },
+        {
+            "gameTime": "2 - 16:15",
+            "label": "Kick-off",
+            "position": "975500",
+            "half": "2",
+            "confidence": "0.05816173180937767"
+        },
+        {
+            "gameTime": "2 - 16:29",
+            "label": "Kick-off",
+            "position": "989000",
+            "half": "2",
+            "confidence": "0.6151508688926697"
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "Foul",
+            "position": "1006000",
+            "half": "2",
+            "confidence": "0.6550053358078003"
+        },
+        {
+            "gameTime": "2 - 16:49",
+            "label": "Indirect free-kick",
+            "position": "1009500",
+            "half": "2",
+            "confidence": "0.7251160740852356"
+        },
+        {
+            "gameTime": "2 - 16:54",
+            "label": "Offside",
+            "position": "1014000",
+            "half": "2",
+            "confidence": "0.2933812439441681"
+        },
+        {
+            "gameTime": "2 - 17:0",
+            "label": "Indirect free-kick",
+            "position": "1020000",
+            "half": "2",
+            "confidence": "0.4899933636188507"
+        },
+        {
+            "gameTime": "2 - 17:10",
+            "label": "Offside",
+            "position": "1030000",
+            "half": "2",
+            "confidence": "0.4904614984989166"
+        },
+        {
+            "gameTime": "2 - 17:16",
+            "label": "Ball out of play",
+            "position": "1036000",
+            "half": "2",
+            "confidence": "0.24460896849632263"
+        },
+        {
+            "gameTime": "2 - 17:26",
+            "label": "Ball out of play",
+            "position": "1046000",
+            "half": "2",
+            "confidence": "0.10520829260349274"
+        },
+        {
+            "gameTime": "2 - 17:32",
+            "label": "Indirect free-kick",
+            "position": "1052000",
+            "half": "2",
+            "confidence": "0.23597599565982819"
+        },
+        {
+            "gameTime": "2 - 17:33",
+            "label": "Throw-in",
+            "position": "1053500",
+            "half": "2",
+            "confidence": "0.09848576784133911"
+        },
+        {
+            "gameTime": "2 - 17:54",
+            "label": "Foul",
+            "position": "1074000",
+            "half": "2",
+            "confidence": "0.6847580671310425"
+        },
+        {
+            "gameTime": "2 - 17:56",
+            "label": "Yellow card",
+            "position": "1076500",
+            "half": "2",
+            "confidence": "0.2750876545906067"
+        },
+        {
+            "gameTime": "2 - 18:6",
+            "label": "Substitution",
+            "position": "1086000",
+            "half": "2",
+            "confidence": "0.15835832059383392"
+        },
+        {
+            "gameTime": "2 - 18:14",
+            "label": "Ball out of play",
+            "position": "1094500",
+            "half": "2",
+            "confidence": "0.2651534974575043"
+        },
+        {
+            "gameTime": "2 - 18:24",
+            "label": "Substitution",
+            "position": "1104000",
+            "half": "2",
+            "confidence": "0.7414910197257996"
+        },
+        {
+            "gameTime": "2 - 18:28",
+            "label": "Indirect free-kick",
+            "position": "1108500",
+            "half": "2",
+            "confidence": "0.7133402228355408"
+        },
+        {
+            "gameTime": "2 - 18:39",
+            "label": "Ball out of play",
+            "position": "1119500",
+            "half": "2",
+            "confidence": "0.7652130722999573"
+        },
+        {
+            "gameTime": "2 - 18:50",
+            "label": "Throw-in",
+            "position": "1130000",
+            "half": "2",
+            "confidence": "0.6004841923713684"
+        },
+        {
+            "gameTime": "2 - 19:11",
+            "label": "Ball out of play",
+            "position": "1151000",
+            "half": "2",
+            "confidence": "0.29452845454216003"
+        },
+        {
+            "gameTime": "2 - 19:20",
+            "label": "Throw-in",
+            "position": "1160500",
+            "half": "2",
+            "confidence": "0.4106896221637726"
+        },
+        {
+            "gameTime": "2 - 19:27",
+            "label": "Foul",
+            "position": "1167500",
+            "half": "2",
+            "confidence": "0.6722266674041748"
+        },
+        {
+            "gameTime": "2 - 19:30",
+            "label": "Ball out of play",
+            "position": "1170500",
+            "half": "2",
+            "confidence": "0.23150275647640228"
+        },
+        {
+            "gameTime": "2 - 19:34",
+            "label": "Yellow card",
+            "position": "1174000",
+            "half": "2",
+            "confidence": "0.33121028542518616"
+        },
+        {
+            "gameTime": "2 - 19:46",
+            "label": "Yellow card",
+            "position": "1186500",
+            "half": "2",
+            "confidence": "0.33266645669937134"
+        },
+        {
+            "gameTime": "2 - 19:54",
+            "label": "Substitution",
+            "position": "1194000",
+            "half": "2",
+            "confidence": "0.18331722915172577"
+        },
+        {
+            "gameTime": "2 - 20:8",
+            "label": "Direct free-kick",
+            "position": "1208500",
+            "half": "2",
+            "confidence": "0.6929106712341309"
+        },
+        {
+            "gameTime": "2 - 20:15",
+            "label": "Shots on target",
+            "position": "1215500",
+            "half": "2",
+            "confidence": "0.6108865737915039"
+        },
+        {
+            "gameTime": "2 - 20:31",
+            "label": "Offside",
+            "position": "1231000",
+            "half": "2",
+            "confidence": "0.6656063795089722"
+        },
+        {
+            "gameTime": "2 - 20:50",
+            "label": "Yellow card",
+            "position": "1250000",
+            "half": "2",
+            "confidence": "0.1281559020280838"
+        },
+        {
+            "gameTime": "2 - 21:3",
+            "label": "Substitution",
+            "position": "1263500",
+            "half": "2",
+            "confidence": "0.336863249540329"
+        },
+        {
+            "gameTime": "2 - 21:8",
+            "label": "Yellow card",
+            "position": "1268500",
+            "half": "2",
+            "confidence": "0.3101664185523987"
+        },
+        {
+            "gameTime": "2 - 21:13",
+            "label": "Ball out of play",
+            "position": "1273500",
+            "half": "2",
+            "confidence": "0.27405911684036255"
+        },
+        {
+            "gameTime": "2 - 21:22",
+            "label": "Throw-in",
+            "position": "1282500",
+            "half": "2",
+            "confidence": "0.6440156102180481"
+        },
+        {
+            "gameTime": "2 - 21:42",
+            "label": "Foul",
+            "position": "1302500",
+            "half": "2",
+            "confidence": "0.7047538161277771"
+        },
+        {
+            "gameTime": "2 - 21:52",
+            "label": "Yellow card",
+            "position": "1312500",
+            "half": "2",
+            "confidence": "0.06580492109060287"
+        },
+        {
+            "gameTime": "2 - 22:1",
+            "label": "Goal",
+            "position": "1321500",
+            "half": "2",
+            "confidence": "0.1847487986087799"
+        },
+        {
+            "gameTime": "2 - 22:7",
+            "label": "Shots on target",
+            "position": "1327500",
+            "half": "2",
+            "confidence": "0.2479645162820816"
+        },
+        {
+            "gameTime": "2 - 22:10",
+            "label": "Yellow card",
+            "position": "1330000",
+            "half": "2",
+            "confidence": "0.1672440469264984"
+        },
+        {
+            "gameTime": "2 - 22:27",
+            "label": "Yellow card",
+            "position": "1347500",
+            "half": "2",
+            "confidence": "0.2566532492637634"
+        },
+        {
+            "gameTime": "2 - 22:42",
+            "label": "Yellow card",
+            "position": "1362000",
+            "half": "2",
+            "confidence": "0.11817936599254608"
+        },
+        {
+            "gameTime": "2 - 22:48",
+            "label": "Kick-off",
+            "position": "1368500",
+            "half": "2",
+            "confidence": "0.0817708820104599"
+        },
+        {
+            "gameTime": "2 - 23:7",
+            "label": "Clearance",
+            "position": "1387000",
+            "half": "2",
+            "confidence": "0.15656358003616333"
+        },
+        {
+            "gameTime": "2 - 23:14",
+            "label": "Corner",
+            "position": "1394500",
+            "half": "2",
+            "confidence": "0.710562527179718"
+        },
+        {
+            "gameTime": "2 - 23:19",
+            "label": "Goal",
+            "position": "1399500",
+            "half": "2",
+            "confidence": "0.5180710554122925"
+        },
+        {
+            "gameTime": "2 - 23:32",
+            "label": "Goal",
+            "position": "1412000",
+            "half": "2",
+            "confidence": "0.23394089937210083"
+        },
+        {
+            "gameTime": "2 - 23:39",
+            "label": "Shots on target",
+            "position": "1419000",
+            "half": "2",
+            "confidence": "0.1370827555656433"
+        },
+        {
+            "gameTime": "2 - 23:41",
+            "label": "Foul",
+            "position": "1421000",
+            "half": "2",
+            "confidence": "0.1848837286233902"
+        },
+        {
+            "gameTime": "2 - 23:49",
+            "label": "Kick-off",
+            "position": "1429000",
+            "half": "2",
+            "confidence": "0.12196443974971771"
+        },
+        {
+            "gameTime": "2 - 24:2",
+            "label": "Kick-off",
+            "position": "1442500",
+            "half": "2",
+            "confidence": "0.4427037835121155"
+        },
+        {
+            "gameTime": "2 - 24:10",
+            "label": "Ball out of play",
+            "position": "1450000",
+            "half": "2",
+            "confidence": "0.6701294183731079"
+        },
+        {
+            "gameTime": "2 - 24:30",
+            "label": "Throw-in",
+            "position": "1470500",
+            "half": "2",
+            "confidence": "0.6222479343414307"
+        },
+        {
+            "gameTime": "2 - 24:31",
+            "label": "Clearance",
+            "position": "1471500",
+            "half": "2",
+            "confidence": "0.6214490532875061"
+        },
+        {
+            "gameTime": "2 - 24:39",
+            "label": "Shots off target",
+            "position": "1479000",
+            "half": "2",
+            "confidence": "0.11928926408290863"
+        },
+        {
+            "gameTime": "2 - 24:50",
+            "label": "Shots off target",
+            "position": "1490500",
+            "half": "2",
+            "confidence": "0.30848485231399536"
+        },
+        {
+            "gameTime": "2 - 24:52",
+            "label": "Offside",
+            "position": "1492000",
+            "half": "2",
+            "confidence": "0.6824824810028076"
+        },
+        {
+            "gameTime": "2 - 24:55",
+            "label": "Ball out of play",
+            "position": "1495000",
+            "half": "2",
+            "confidence": "0.2509508728981018"
+        },
+        {
+            "gameTime": "2 - 25:5",
+            "label": "Indirect free-kick",
+            "position": "1505500",
+            "half": "2",
+            "confidence": "0.07252433151006699"
+        },
+        {
+            "gameTime": "2 - 25:21",
+            "label": "Clearance",
+            "position": "1521500",
+            "half": "2",
+            "confidence": "0.37284576892852783"
+        },
+        {
+            "gameTime": "2 - 25:31",
+            "label": "Indirect free-kick",
+            "position": "1531000",
+            "half": "2",
+            "confidence": "0.04224343225359917"
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "Ball out of play",
+            "position": "1556500",
+            "half": "2",
+            "confidence": "0.5755680203437805"
+        },
+        {
+            "gameTime": "2 - 26:8",
+            "label": "Throw-in",
+            "position": "1568000",
+            "half": "2",
+            "confidence": "0.4148324728012085"
+        },
+        {
+            "gameTime": "2 - 26:11",
+            "label": "Clearance",
+            "position": "1571500",
+            "half": "2",
+            "confidence": "0.5838823318481445"
+        },
+        {
+            "gameTime": "2 - 26:22",
+            "label": "Ball out of play",
+            "position": "1582000",
+            "half": "2",
+            "confidence": "0.6892227530479431"
+        },
+        {
+            "gameTime": "2 - 26:24",
+            "label": "Throw-in",
+            "position": "1584500",
+            "half": "2",
+            "confidence": "0.6862128973007202"
+        },
+        {
+            "gameTime": "2 - 26:40",
+            "label": "Foul",
+            "position": "1600000",
+            "half": "2",
+            "confidence": "0.13451652228832245"
+        },
+        {
+            "gameTime": "2 - 26:51",
+            "label": "Foul",
+            "position": "1611000",
+            "half": "2",
+            "confidence": "0.853749692440033"
+        },
+        {
+            "gameTime": "2 - 26:55",
+            "label": "Yellow card",
+            "position": "1615500",
+            "half": "2",
+            "confidence": "0.8928233981132507"
+        },
+        {
+            "gameTime": "2 - 27:10",
+            "label": "Indirect free-kick",
+            "position": "1630000",
+            "half": "2",
+            "confidence": "0.020960161462426186"
+        },
+        {
+            "gameTime": "2 - 27:28",
+            "label": "Indirect free-kick",
+            "position": "1648500",
+            "half": "2",
+            "confidence": "0.2316158264875412"
+        },
+        {
+            "gameTime": "2 - 27:43",
+            "label": "Foul",
+            "position": "1663000",
+            "half": "2",
+            "confidence": "0.6043298840522766"
+        },
+        {
+            "gameTime": "2 - 27:49",
+            "label": "Yellow card",
+            "position": "1669000",
+            "half": "2",
+            "confidence": "0.46800437569618225"
+        },
+        {
+            "gameTime": "2 - 28:4",
+            "label": "Yellow card",
+            "position": "1684000",
+            "half": "2",
+            "confidence": "0.18252228200435638"
+        },
+        {
+            "gameTime": "2 - 28:15",
+            "label": "Yellow card",
+            "position": "1695000",
+            "half": "2",
+            "confidence": "0.03847188875079155"
+        },
+        {
+            "gameTime": "2 - 28:33",
+            "label": "Yellow card",
+            "position": "1713500",
+            "half": "2",
+            "confidence": "0.07394998520612717"
+        },
+        {
+            "gameTime": "2 - 28:49",
+            "label": "Direct free-kick",
+            "position": "1729000",
+            "half": "2",
+            "confidence": "0.756537675857544"
+        },
+        {
+            "gameTime": "2 - 29:9",
+            "label": "Corner",
+            "position": "1749500",
+            "half": "2",
+            "confidence": "0.6659718155860901"
+        },
+        {
+            "gameTime": "2 - 29:13",
+            "label": "Indirect free-kick",
+            "position": "1753000",
+            "half": "2",
+            "confidence": "0.6115533113479614"
+        },
+        {
+            "gameTime": "2 - 29:19",
+            "label": "Ball out of play",
+            "position": "1759000",
+            "half": "2",
+            "confidence": "0.2052820920944214"
+        },
+        {
+            "gameTime": "2 - 29:20",
+            "label": "Direct free-kick",
+            "position": "1760000",
+            "half": "2",
+            "confidence": "0.22619518637657166"
+        },
+        {
+            "gameTime": "2 - 29:35",
+            "label": "Throw-in",
+            "position": "1775000",
+            "half": "2",
+            "confidence": "0.3690190613269806"
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "Offside",
+            "position": "1777000",
+            "half": "2",
+            "confidence": "0.7563016414642334"
+        },
+        {
+            "gameTime": "2 - 29:43",
+            "label": "Foul",
+            "position": "1783500",
+            "half": "2",
+            "confidence": "0.09345772117376328"
+        },
+        {
+            "gameTime": "2 - 30:2",
+            "label": "Yellow card",
+            "position": "1802000",
+            "half": "2",
+            "confidence": "0.10084439814090729"
+        },
+        {
+            "gameTime": "2 - 30:13",
+            "label": "Yellow card",
+            "position": "1813000",
+            "half": "2",
+            "confidence": "0.18200530111789703"
+        },
+        {
+            "gameTime": "2 - 30:23",
+            "label": "Yellow card",
+            "position": "1823500",
+            "half": "2",
+            "confidence": "0.18986645340919495"
+        },
+        {
+            "gameTime": "2 - 30:41",
+            "label": "Direct free-kick",
+            "position": "1841500",
+            "half": "2",
+            "confidence": "0.7336535453796387"
+        },
+        {
+            "gameTime": "2 - 30:44",
+            "label": "Ball out of play",
+            "position": "1844500",
+            "half": "2",
+            "confidence": "0.6646109819412231"
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "Corner",
+            "position": "1870000",
+            "half": "2",
+            "confidence": "0.5342703461647034"
+        },
+        {
+            "gameTime": "2 - 31:21",
+            "label": "Shots on target",
+            "position": "1881000",
+            "half": "2",
+            "confidence": "0.11451845616102219"
+        },
+        {
+            "gameTime": "2 - 31:39",
+            "label": "Goal",
+            "position": "1899500",
+            "half": "2",
+            "confidence": "0.5857571363449097"
+        },
+        {
+            "gameTime": "2 - 31:40",
+            "label": "Shots on target",
+            "position": "1900000",
+            "half": "2",
+            "confidence": "0.8557484149932861"
+        },
+        {
+            "gameTime": "2 - 31:40",
+            "label": "Corner",
+            "position": "1900000",
+            "half": "2",
+            "confidence": "0.64113450050354"
+        },
+        {
+            "gameTime": "2 - 31:52",
+            "label": "Yellow card",
+            "position": "1912000",
+            "half": "2",
+            "confidence": "0.040600281208753586"
+        },
+        {
+            "gameTime": "2 - 32:5",
+            "label": "Kick-off",
+            "position": "1925000",
+            "half": "2",
+            "confidence": "0.030128149315714836"
+        },
+        {
+            "gameTime": "2 - 32:15",
+            "label": "Kick-off",
+            "position": "1935000",
+            "half": "2",
+            "confidence": "0.021391164511442184"
+        },
+        {
+            "gameTime": "2 - 32:25",
+            "label": "Kick-off",
+            "position": "1945500",
+            "half": "2",
+            "confidence": "0.37102651596069336"
+        },
+        {
+            "gameTime": "2 - 32:36",
+            "label": "Indirect free-kick",
+            "position": "1956500",
+            "half": "2",
+            "confidence": "0.5766059756278992"
+        },
+        {
+            "gameTime": "2 - 32:40",
+            "label": "Foul",
+            "position": "1960000",
+            "half": "2",
+            "confidence": "0.5175679922103882"
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "Yellow card",
+            "position": "1969000",
+            "half": "2",
+            "confidence": "0.3432912826538086"
+        },
+        {
+            "gameTime": "2 - 32:59",
+            "label": "Yellow card",
+            "position": "1979000",
+            "half": "2",
+            "confidence": "0.19524507224559784"
+        },
+        {
+            "gameTime": "2 - 33:16",
+            "label": "Substitution",
+            "position": "1996000",
+            "half": "2",
+            "confidence": "0.33133313059806824"
+        },
+        {
+            "gameTime": "2 - 33:29",
+            "label": "Substitution",
+            "position": "2009000",
+            "half": "2",
+            "confidence": "0.19473613798618317"
+        },
+        {
+            "gameTime": "2 - 33:44",
+            "label": "Yellow card",
+            "position": "2024000",
+            "half": "2",
+            "confidence": "0.10054828226566315"
+        },
+        {
+            "gameTime": "2 - 33:51",
+            "label": "Indirect free-kick",
+            "position": "2031500",
+            "half": "2",
+            "confidence": "0.1796288788318634"
+        },
+        {
+            "gameTime": "2 - 34:2",
+            "label": "Indirect free-kick",
+            "position": "2042000",
+            "half": "2",
+            "confidence": "0.4103773534297943"
+        },
+        {
+            "gameTime": "2 - 34:23",
+            "label": "Ball out of play",
+            "position": "2063500",
+            "half": "2",
+            "confidence": "0.5706444382667542"
+        },
+        {
+            "gameTime": "2 - 34:28",
+            "label": "Throw-in",
+            "position": "2068500",
+            "half": "2",
+            "confidence": "0.6415230631828308"
+        },
+        {
+            "gameTime": "2 - 34:37",
+            "label": "Ball out of play",
+            "position": "2077000",
+            "half": "2",
+            "confidence": "0.4228868782520294"
+        },
+        {
+            "gameTime": "2 - 34:42",
+            "label": "Throw-in",
+            "position": "2082000",
+            "half": "2",
+            "confidence": "0.5408130884170532"
+        },
+        {
+            "gameTime": "2 - 34:49",
+            "label": "Indirect free-kick",
+            "position": "2089500",
+            "half": "2",
+            "confidence": "0.23821306228637695"
+        },
+        {
+            "gameTime": "2 - 34:53",
+            "label": "Throw-in",
+            "position": "2093500",
+            "half": "2",
+            "confidence": "0.026384776458144188"
+        },
+        {
+            "gameTime": "2 - 35:8",
+            "label": "Foul",
+            "position": "2108500",
+            "half": "2",
+            "confidence": "0.5977227687835693"
+        },
+        {
+            "gameTime": "2 - 35:20",
+            "label": "Foul",
+            "position": "2120000",
+            "half": "2",
+            "confidence": "0.1946692019701004"
+        },
+        {
+            "gameTime": "2 - 35:25",
+            "label": "Yellow card",
+            "position": "2125500",
+            "half": "2",
+            "confidence": "0.21733708679676056"
+        },
+        {
+            "gameTime": "2 - 35:29",
+            "label": "Direct free-kick",
+            "position": "2129500",
+            "half": "2",
+            "confidence": "0.23185057938098907"
+        },
+        {
+            "gameTime": "2 - 35:42",
+            "label": "Direct free-kick",
+            "position": "2142000",
+            "half": "2",
+            "confidence": "0.14744749665260315"
+        },
+        {
+            "gameTime": "2 - 35:51",
+            "label": "Yellow card",
+            "position": "2151500",
+            "half": "2",
+            "confidence": "0.3553314507007599"
+        },
+        {
+            "gameTime": "2 - 35:55",
+            "label": "Substitution",
+            "position": "2155000",
+            "half": "2",
+            "confidence": "0.3488539159297943"
+        },
+        {
+            "gameTime": "2 - 36:9",
+            "label": "Substitution",
+            "position": "2169000",
+            "half": "2",
+            "confidence": "0.0905720591545105"
+        },
+        {
+            "gameTime": "2 - 36:23",
+            "label": "Yellow card",
+            "position": "2183500",
+            "half": "2",
+            "confidence": "0.06257440149784088"
+        },
+        {
+            "gameTime": "2 - 36:38",
+            "label": "Substitution",
+            "position": "2198000",
+            "half": "2",
+            "confidence": "0.0967840924859047"
+        },
+        {
+            "gameTime": "2 - 36:53",
+            "label": "Substitution",
+            "position": "2213000",
+            "half": "2",
+            "confidence": "0.30673450231552124"
+        },
+        {
+            "gameTime": "2 - 37:5",
+            "label": "Substitution",
+            "position": "2225500",
+            "half": "2",
+            "confidence": "0.2800300717353821"
+        },
+        {
+            "gameTime": "2 - 37:16",
+            "label": "Substitution",
+            "position": "2236000",
+            "half": "2",
+            "confidence": "0.6949854493141174"
+        },
+        {
+            "gameTime": "2 - 37:20",
+            "label": "Foul",
+            "position": "2240500",
+            "half": "2",
+            "confidence": "0.6442030072212219"
+        },
+        {
+            "gameTime": "2 - 37:33",
+            "label": "Indirect free-kick",
+            "position": "2253000",
+            "half": "2",
+            "confidence": "0.8260701894760132"
+        },
+        {
+            "gameTime": "2 - 37:36",
+            "label": "Ball out of play",
+            "position": "2256000",
+            "half": "2",
+            "confidence": "0.8837876319885254"
+        },
+        {
+            "gameTime": "2 - 37:46",
+            "label": "Indirect free-kick",
+            "position": "2266000",
+            "half": "2",
+            "confidence": "0.08431163430213928"
+        },
+        {
+            "gameTime": "2 - 37:59",
+            "label": "Indirect free-kick",
+            "position": "2279000",
+            "half": "2",
+            "confidence": "0.4951867461204529"
+        },
+        {
+            "gameTime": "2 - 38:15",
+            "label": "Ball out of play",
+            "position": "2295000",
+            "half": "2",
+            "confidence": "0.7194527387619019"
+        },
+        {
+            "gameTime": "2 - 38:24",
+            "label": "Throw-in",
+            "position": "2304500",
+            "half": "2",
+            "confidence": "0.28340059518814087"
+        },
+        {
+            "gameTime": "2 - 38:33",
+            "label": "Indirect free-kick",
+            "position": "2313000",
+            "half": "2",
+            "confidence": "0.7194321155548096"
+        },
+        {
+            "gameTime": "2 - 38:38",
+            "label": "Ball out of play",
+            "position": "2318000",
+            "half": "2",
+            "confidence": "0.32219696044921875"
+        },
+        {
+            "gameTime": "2 - 38:48",
+            "label": "Ball out of play",
+            "position": "2328500",
+            "half": "2",
+            "confidence": "0.41621097922325134"
+        },
+        {
+            "gameTime": "2 - 38:52",
+            "label": "Throw-in",
+            "position": "2332000",
+            "half": "2",
+            "confidence": "0.7948436141014099"
+        },
+        {
+            "gameTime": "2 - 39:3",
+            "label": "Throw-in",
+            "position": "2343500",
+            "half": "2",
+            "confidence": "0.07706540077924728"
+        },
+        {
+            "gameTime": "2 - 39:17",
+            "label": "Ball out of play",
+            "position": "2357000",
+            "half": "2",
+            "confidence": "0.6474973559379578"
+        },
+        {
+            "gameTime": "2 - 39:21",
+            "label": "Throw-in",
+            "position": "2361000",
+            "half": "2",
+            "confidence": "0.2805555760860443"
+        },
+        {
+            "gameTime": "2 - 39:35",
+            "label": "Throw-in",
+            "position": "2375500",
+            "half": "2",
+            "confidence": "0.7692148089408875"
+        },
+        {
+            "gameTime": "2 - 39:39",
+            "label": "Foul",
+            "position": "2379500",
+            "half": "2",
+            "confidence": "0.6971843242645264"
+        },
+        {
+            "gameTime": "2 - 39:51",
+            "label": "Indirect free-kick",
+            "position": "2391000",
+            "half": "2",
+            "confidence": "0.6865994334220886"
+        },
+        {
+            "gameTime": "2 - 40:10",
+            "label": "Shots off target",
+            "position": "2410500",
+            "half": "2",
+            "confidence": "0.25697407126426697"
+        },
+        {
+            "gameTime": "2 - 40:16",
+            "label": "Ball out of play",
+            "position": "2416000",
+            "half": "2",
+            "confidence": "0.9217268824577332"
+        },
+        {
+            "gameTime": "2 - 40:39",
+            "label": "Clearance",
+            "position": "2439500",
+            "half": "2",
+            "confidence": "0.24174010753631592"
+        },
+        {
+            "gameTime": "2 - 40:46",
+            "label": "Corner",
+            "position": "2446000",
+            "half": "2",
+            "confidence": "0.6763715744018555"
+        },
+        {
+            "gameTime": "2 - 40:48",
+            "label": "Ball out of play",
+            "position": "2448500",
+            "half": "2",
+            "confidence": "0.5545681715011597"
+        },
+        {
+            "gameTime": "2 - 40:51",
+            "label": "Throw-in",
+            "position": "2451500",
+            "half": "2",
+            "confidence": "0.4122162461280823"
+        },
+        {
+            "gameTime": "2 - 41:3",
+            "label": "Shots on target",
+            "position": "2463500",
+            "half": "2",
+            "confidence": "0.04929910600185394"
+        },
+        {
+            "gameTime": "2 - 41:19",
+            "label": "Shots on target",
+            "position": "2479000",
+            "half": "2",
+            "confidence": "0.2769404351711273"
+        },
+        {
+            "gameTime": "2 - 41:31",
+            "label": "Shots on target",
+            "position": "2491000",
+            "half": "2",
+            "confidence": "0.11202725768089294"
+        },
+        {
+            "gameTime": "2 - 41:35",
+            "label": "Clearance",
+            "position": "2495500",
+            "half": "2",
+            "confidence": "0.15814940631389618"
+        },
+        {
+            "gameTime": "2 - 41:58",
+            "label": "Ball out of play",
+            "position": "2518500",
+            "half": "2",
+            "confidence": "0.6748196482658386"
+        },
+        {
+            "gameTime": "2 - 42:15",
+            "label": "Throw-in",
+            "position": "2535500",
+            "half": "2",
+            "confidence": "0.7299696207046509"
+        },
+        {
+            "gameTime": "2 - 42:22",
+            "label": "Indirect free-kick",
+            "position": "2542000",
+            "half": "2",
+            "confidence": "0.07348611205816269"
+        },
+        {
+            "gameTime": "2 - 42:35",
+            "label": "Shots on target",
+            "position": "2555500",
+            "half": "2",
+            "confidence": "0.07986974716186523"
+        },
+        {
+            "gameTime": "2 - 42:44",
+            "label": "Foul",
+            "position": "2564500",
+            "half": "2",
+            "confidence": "0.7483842968940735"
+        },
+        {
+            "gameTime": "2 - 42:47",
+            "label": "Shots on target",
+            "position": "2567000",
+            "half": "2",
+            "confidence": "0.9246981143951416"
+        },
+        {
+            "gameTime": "2 - 42:52",
+            "label": "Indirect free-kick",
+            "position": "2572500",
+            "half": "2",
+            "confidence": "0.11942218989133835"
+        },
+        {
+            "gameTime": "2 - 43:3",
+            "label": "Yellow card",
+            "position": "2583500",
+            "half": "2",
+            "confidence": "0.032435331493616104"
+        },
+        {
+            "gameTime": "2 - 43:12",
+            "label": "Indirect free-kick",
+            "position": "2592500",
+            "half": "2",
+            "confidence": "0.0596865676343441"
+        },
+        {
+            "gameTime": "2 - 43:20",
+            "label": "Kick-off",
+            "position": "2600500",
+            "half": "2",
+            "confidence": "0.12417339533567429"
+        },
+        {
+            "gameTime": "2 - 43:28",
+            "label": "Indirect free-kick",
+            "position": "2608500",
+            "half": "2",
+            "confidence": "0.5551942586898804"
+        },
+        {
+            "gameTime": "2 - 43:39",
+            "label": "Foul",
+            "position": "2619500",
+            "half": "2",
+            "confidence": "0.448640376329422"
+        },
+        {
+            "gameTime": "2 - 43:49",
+            "label": "Yellow card",
+            "position": "2629500",
+            "half": "2",
+            "confidence": "0.21837098896503448"
+        },
+        {
+            "gameTime": "2 - 44:6",
+            "label": "Indirect free-kick",
+            "position": "2646500",
+            "half": "2",
+            "confidence": "0.3060090243816376"
+        },
+        {
+            "gameTime": "2 - 44:16",
+            "label": "Ball out of play",
+            "position": "2656500",
+            "half": "2",
+            "confidence": "0.7960648536682129"
+        },
+        {
+            "gameTime": "2 - 44:35",
+            "label": "Throw-in",
+            "position": "2675500",
+            "half": "2",
+            "confidence": "0.3672724962234497"
+        },
+        {
+            "gameTime": "2 - 44:47",
+            "label": "Indirect free-kick",
+            "position": "2687500",
+            "half": "2",
+            "confidence": "0.6249954104423523"
+        },
+        {
+            "gameTime": "2 - 44:56",
+            "label": "Ball out of play",
+            "position": "2696000",
+            "half": "2",
+            "confidence": "0.4312126040458679"
+        },
+        {
+            "gameTime": "2 - 45:3",
+            "label": "Throw-in",
+            "position": "2703000",
+            "half": "2",
+            "confidence": "0.4535106420516968"
+        },
+        {
+            "gameTime": "2 - 45:8",
+            "label": "Ball out of play",
+            "position": "2708000",
+            "half": "2",
+            "confidence": "0.6711476445198059"
+        },
+        {
+            "gameTime": "2 - 45:23",
+            "label": "Substitution",
+            "position": "2723500",
+            "half": "2",
+            "confidence": "0.16533954441547394"
+        },
+        {
+            "gameTime": "2 - 45:30",
+            "label": "Clearance",
+            "position": "2730000",
+            "half": "2",
+            "confidence": "0.18140383064746857"
+        },
+        {
+            "gameTime": "2 - 45:42",
+            "label": "Clearance",
+            "position": "2742000",
+            "half": "2",
+            "confidence": "0.6391834616661072"
+        },
+        {
+            "gameTime": "2 - 46:2",
+            "label": "Foul",
+            "position": "2762500",
+            "half": "2",
+            "confidence": "0.5648099184036255"
+        },
+        {
+            "gameTime": "2 - 46:8",
+            "label": "Indirect free-kick",
+            "position": "2768500",
+            "half": "2",
+            "confidence": "0.2526182532310486"
+        },
+        {
+            "gameTime": "2 - 46:16",
+            "label": "Yellow card",
+            "position": "2776500",
+            "half": "2",
+            "confidence": "0.33650511503219604"
+        },
+        {
+            "gameTime": "2 - 46:22",
+            "label": "Ball out of play",
+            "position": "2782000",
+            "half": "2",
+            "confidence": "0.24260209500789642"
+        },
+        {
+            "gameTime": "2 - 46:31",
+            "label": "Throw-in",
+            "position": "2791500",
+            "half": "2",
+            "confidence": "0.8121769428253174"
+        },
+        {
+            "gameTime": "2 - 46:41",
+            "label": "Yellow card",
+            "position": "2801500",
+            "half": "2",
+            "confidence": "0.013530856929719448"
+        },
+        {
+            "gameTime": "2 - 46:47",
+            "label": "Penalty",
+            "position": "2807500",
+            "half": "2",
+            "confidence": "0.02854757010936737"
+        },
+        {
+            "gameTime": "2 - 47:0",
+            "label": "Penalty",
+            "position": "2820500",
+            "half": "2",
+            "confidence": "0.22143754363059998"
+        },
+        {
+            "gameTime": "2 - 47:13",
+            "label": "Kick-off",
+            "position": "2833000",
+            "half": "2",
+            "confidence": "0.05889015644788742"
+        },
+        {
+            "gameTime": "2 - 47:23",
+            "label": "Kick-off",
+            "position": "2843500",
+            "half": "2",
+            "confidence": "0.08473800867795944"
+        },
+        {
+            "gameTime": "2 - 47:36",
+            "label": "Kick-off",
+            "position": "2856500",
+            "half": "2",
+            "confidence": "0.09162779152393341"
+        },
+        {
+            "gameTime": "2 - 47:47",
+            "label": "Kick-off",
+            "position": "2867500",
+            "half": "2",
+            "confidence": "0.02755289524793625"
+        }
+    ]
+}
