@@ -126,6 +126,10 @@ and then run the code using:
 python inference/main.py --video_path=<path to your video> --model_name CALF_benchmark
 ```
 
+
+This will produce 17 temporal images of predictions (one per class, only predictions with confidence scores above 0.34) and a json file containing all predictions in <code>inference/outputs</code>.
+
+
 ## Test on external video using Web Application
 
 You can upload your video to the web application, and it will generate a predicted video with annotated labels. First install the following dependencies inside the CALF environment:
@@ -138,9 +142,6 @@ and then run the code using:
 ```
 streamlit run webapp.py
 ```
-
-
-This will produce 17 temporal images of predictions (one per class, only predictions with confidence scores above 0.34) and a json file containing all predictions in <code>inference/outputs</code>.
 
 ## Authors
 
